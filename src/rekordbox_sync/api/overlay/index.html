@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>DJ Stream Overlay</title>
+  <link rel="stylesheet" href="/overlay.css">
+  <script src="/overlay.js" defer></script>
+</head>
+<body>
+  <div class="scene" aria-label="DJ Stream Overlay">
+    <div class="background-stack" aria-hidden="true">
+      <div class="background-artwork bg-a"></div>
+      <div class="background-artwork bg-b"></div>
+      <div class="background-shade"></div>
+    </div>
+
+    <article class="now-playing is-hidden" aria-label="Now Playing">
+      <div class="cover-slot" aria-hidden="true"></div>
+      <div class="track-info">
+        <div class="eyebrow"><span class="indicator"></span>NOW PLAYING</div>
+        <div class="title"></div>
+        <div class="artist"></div>
+        <div class="work"></div>
+      </div>
+    </article>
+  </div>
+</body>
+</html>

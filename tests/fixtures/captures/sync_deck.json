@@ -1,0 +1,1231 @@
+{
+ "input": {
+  "received_at": "2026-11-18T16:28:45.2918498Z",
+  "label": "live-api",
+  "process_id": 5856,
+  "executable": "C:\\Program Files\\rekordbox\\rekordbox 7.2.19\\rekordbox.exe",
+  "capture_started_at": "2026-11-18T16:28:45.2266137Z",
+  "window_name": "rekordbox",
+  "window_minimized": false,
+  "elements": [
+   {
+    "index": 405,
+    "name": "LOW",
+    "type": "ControlType.Text",
+    "automation_id": "LOW.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.rekordbox",
+    "offscreen": false,
+    "rect": {
+     "y": 491,
+     "width": 30,
+     "height": 9,
+     "x": 146
+    }
+   },
+   {
+    "index": 406,
+    "name": "MID",
+    "type": "ControlType.Text",
+    "automation_id": "MID.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.rekordbox",
+    "offscreen": false,
+    "rect": {
+     "y": 491,
+     "width": 30,
+     "height": 9,
+     "x": 178
+    }
+   },
+   {
+    "index": 407,
+    "name": "HI",
+    "type": "ControlType.Text",
+    "automation_id": "HI.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.rekordbox",
+    "offscreen": false,
+    "rect": {
+     "y": 491,
+     "width": 30,
+     "height": 9,
+     "x": 210
+    }
+   },
+   {
+    "index": 408,
+    "name": "FX",
+    "type": "ControlType.Text",
+    "automation_id": "FX.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.rekordbox",
+    "offscreen": false,
+    "rect": {
+     "y": 491,
+     "width": 30,
+     "height": 9,
+     "x": 334
+    }
+   },
+   {
+    "index": 421,
+    "name": "Embrace Blade",
+    "type": "ControlType.Text",
+    "automation_id": "Embrace Blade.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.rekordbox",
+    "offscreen": false,
+    "rect": {
+     "y": 225,
+     "width": 654,
+     "height": 18,
+     "x": 64
+    }
+   },
+   {
+    "index": 423,
+    "name": "アフィリア・サーガ",
+    "type": "ControlType.Text",
+    "automation_id": "アフィリア・サーガ.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.rekordbox",
+    "offscreen": false,
+    "rect": {
+     "y": 246,
+     "width": 100,
+     "height": 14,
+     "x": 64
+    }
+   },
+   {
+    "index": 424,
+    "name": "135.00",
+    "type": "ControlType.Text",
+    "automation_id": "135.00.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.rekordbox",
+    "offscreen": false,
+    "rect": {
+     "y": 246,
+     "width": 44,
+     "height": 14,
+     "x": 179
+    }
+   },
+   {
+    "index": 425,
+    "name": "F#",
+    "type": "ControlType.Text",
+    "automation_id": "F#.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.rekordbox",
+    "offscreen": false,
+    "rect": {
+     "y": 246,
+     "width": 40,
+     "height": 14,
+     "x": 228
+    }
+   },
+   {
+    "index": 426,
+    "name": "BEAT\nSYNC",
+    "type": "ControlType.Button",
+    "automation_id": "BEAT\nSYNC.<empty>.<empty>.<empty>.<empty>.<empty>.rekordbox",
+    "offscreen": false,
+    "rect": {
+     "y": 223,
+     "width": 44,
+     "height": 22,
+     "x": 826
+    },
+    "toggle_state": "Off"
+   },
+   {
+    "index": 431,
+    "name": "-02:40",
+    "type": "ControlType.Text",
+    "automation_id": "-02:40.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.rekordbox",
+    "offscreen": false,
+    "rect": {
+     "y": 244,
+     "width": 46,
+     "height": 16,
+     "x": 601
+    }
+   },
+   {
+    "index": 432,
+    "name": ".0",
+    "type": "ControlType.Text",
+    "automation_id": ".0.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.rekordbox",
+    "offscreen": false,
+    "rect": {
+     "y": 244,
+     "width": 12,
+     "height": 16,
+     "x": 647
+    }
+   },
+   {
+    "index": 433,
+    "name": "01:15",
+    "type": "ControlType.Text",
+    "automation_id": "01:15.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.rekordbox",
+    "offscreen": false,
+    "rect": {
+     "y": 244,
+     "width": 43,
+     "height": 16,
+     "x": 659
+    }
+   },
+   {
+    "index": 434,
+    "name": ".3",
+    "type": "ControlType.Text",
+    "automation_id": ".3.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.rekordbox",
+    "offscreen": false,
+    "rect": {
+     "y": 244,
+     "width": 12,
+     "height": 16,
+     "x": 702
+    }
+   },
+   {
+    "index": 445,
+    "name": "Precious You☆",
+    "type": "ControlType.Text",
+    "automation_id": "Precious You☆.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.rekordbox",
+    "offscreen": false,
+    "rect": {
+     "y": 225,
+     "width": 654,
+     "height": 18,
+     "x": 1080
+    }
+   },
+   {
+    "index": 447,
+    "name": "システィーナ=フィーベル(CV:藤田 茜)、ルミア=ティンジェル(CV:宮本侑芽)、リィエル=レイフォード(CV:小澤亜李)",
+    "type": "ControlType.Text",
+    "automation_id": "システィーナ=フィーベル(CV:藤田 茜)、ルミア=ティンジェル(CV:宮本侑芽)、リィエル=レイフォード(CV:小澤亜李).<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.rekordbox",
+    "offscreen": false,
+    "rect": {
+     "y": 246,
+     "width": 100,
+     "height": 14,
+     "x": 1080
+    }
+   },
+   {
+    "index": 448,
+    "name": "130.00",
+    "type": "ControlType.Text",
+    "automation_id": "130.00.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.rekordbox",
+    "offscreen": false,
+    "rect": {
+     "y": 246,
+     "width": 44,
+     "height": 14,
+     "x": 1195
+    }
+   },
+   {
+    "index": 449,
+    "name": "Db",
+    "type": "ControlType.Text",
+    "automation_id": "Db.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.rekordbox",
+    "offscreen": false,
+    "rect": {
+     "y": 246,
+     "width": 40,
+     "height": 14,
+     "x": 1244
+    }
+   },
+   {
+    "index": 450,
+    "name": "BEAT\nSYNC",
+    "type": "ControlType.Button",
+    "automation_id": "BEAT\nSYNC.<empty>.<empty>.<empty>.<empty>.<empty>.rekordbox",
+    "offscreen": false,
+    "rect": {
+     "y": 223,
+     "width": 44,
+     "height": 22,
+     "x": 1842
+    },
+    "toggle_state": "On"
+   },
+   {
+    "index": 455,
+    "name": "-03:53",
+    "type": "ControlType.Text",
+    "automation_id": "-03:53.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.rekordbox",
+    "offscreen": false,
+    "rect": {
+     "y": 244,
+     "width": 46,
+     "height": 16,
+     "x": 1617
+    }
+   },
+   {
+    "index": 456,
+    "name": ".5",
+    "type": "ControlType.Text",
+    "automation_id": ".5.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.rekordbox",
+    "offscreen": false,
+    "rect": {
+     "y": 244,
+     "width": 12,
+     "height": 16,
+     "x": 1663
+    }
+   },
+   {
+    "index": 457,
+    "name": "00:00",
+    "type": "ControlType.Text",
+    "automation_id": "00:00.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.rekordbox",
+    "offscreen": false,
+    "rect": {
+     "y": 244,
+     "width": 43,
+     "height": 16,
+     "x": 1675
+    }
+   },
+   {
+    "index": 458,
+    "name": ".2",
+    "type": "ControlType.Text",
+    "automation_id": ".2.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.rekordbox",
+    "offscreen": false,
+    "rect": {
+     "y": 244,
+     "width": 12,
+     "height": 16,
+     "x": 1718
+    }
+   },
+   {
+    "index": 467,
+    "name": "1",
+    "type": "ControlType.Text",
+    "automation_id": "1.<empty>.<empty>.<empty>.<empty>.rekordbox",
+    "offscreen": false,
+    "rect": {
+     "y": 223,
+     "width": 12,
+     "height": 12,
+     "x": 8
+    }
+   },
+   {
+    "index": 468,
+    "name": "2",
+    "type": "ControlType.Text",
+    "automation_id": "2.<empty>.<empty>.<empty>.<empty>.rekordbox",
+    "offscreen": false,
+    "rect": {
+     "y": 223,
+     "width": 12,
+     "height": 12,
+     "x": 1024
+    }
+   },
+   {
+    "index": 477,
+    "name": "A",
+    "type": "ControlType.Text",
+    "automation_id": "A.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.rekordbox",
+    "offscreen": false,
+    "rect": {
+     "y": 345,
+     "width": 11,
+     "height": 11,
+     "x": 41
+    }
+   },
+   {
+    "index": 478,
+    "name": "",
+    "type": "ControlType.Text",
+    "automation_id": ".<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.rekordbox",
+    "offscreen": false,
+    "rect": {
+     "y": 368,
+     "width": 133,
+     "height": 11,
+     "x": 41
+    }
+   },
+   {
+    "index": 480,
+    "name": "B",
+    "type": "ControlType.Text",
+    "automation_id": "B.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.rekordbox",
+    "offscreen": false,
+    "rect": {
+     "y": 345,
+     "width": 11,
+     "height": 11,
+     "x": 182
+    }
+   },
+   {
+    "index": 481,
+    "name": "",
+    "type": "ControlType.Text",
+    "automation_id": ".<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.rekordbox",
+    "offscreen": false,
+    "rect": {
+     "y": 368,
+     "width": 133,
+     "height": 11,
+     "x": 182
+    }
+   },
+   {
+    "index": 483,
+    "name": "C",
+    "type": "ControlType.Text",
+    "automation_id": "C.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.rekordbox",
+    "offscreen": false,
+    "rect": {
+     "y": 345,
+     "width": 11,
+     "height": 11,
+     "x": 323
+    }
+   },
+   {
+    "index": 484,
+    "name": "",
+    "type": "ControlType.Text",
+    "automation_id": ".<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.rekordbox",
+    "offscreen": false,
+    "rect": {
+     "y": 368,
+     "width": 133,
+     "height": 11,
+     "x": 323
+    }
+   },
+   {
+    "index": 486,
+    "name": "D",
+    "type": "ControlType.Text",
+    "automation_id": "D.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.rekordbox",
+    "offscreen": false,
+    "rect": {
+     "y": 345,
+     "width": 11,
+     "height": 11,
+     "x": 464
+    }
+   },
+   {
+    "index": 487,
+    "name": "",
+    "type": "ControlType.Text",
+    "automation_id": ".<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.rekordbox",
+    "offscreen": false,
+    "rect": {
+     "y": 368,
+     "width": 133,
+     "height": 11,
+     "x": 464
+    }
+   },
+   {
+    "index": 489,
+    "name": "E",
+    "type": "ControlType.Text",
+    "automation_id": "E.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.rekordbox",
+    "offscreen": false,
+    "rect": {
+     "y": 389,
+     "width": 11,
+     "height": 11,
+     "x": 41
+    }
+   },
+   {
+    "index": 490,
+    "name": "",
+    "type": "ControlType.Text",
+    "automation_id": ".<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.rekordbox",
+    "offscreen": false,
+    "rect": {
+     "y": 412,
+     "width": 133,
+     "height": 11,
+     "x": 41
+    }
+   },
+   {
+    "index": 492,
+    "name": "F",
+    "type": "ControlType.Text",
+    "automation_id": "F.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.rekordbox",
+    "offscreen": false,
+    "rect": {
+     "y": 389,
+     "width": 11,
+     "height": 11,
+     "x": 182
+    }
+   },
+   {
+    "index": 493,
+    "name": "",
+    "type": "ControlType.Text",
+    "automation_id": ".<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.rekordbox",
+    "offscreen": false,
+    "rect": {
+     "y": 412,
+     "width": 133,
+     "height": 11,
+     "x": 182
+    }
+   },
+   {
+    "index": 495,
+    "name": "G",
+    "type": "ControlType.Text",
+    "automation_id": "G.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.rekordbox",
+    "offscreen": false,
+    "rect": {
+     "y": 389,
+     "width": 11,
+     "height": 11,
+     "x": 323
+    }
+   },
+   {
+    "index": 496,
+    "name": "",
+    "type": "ControlType.Text",
+    "automation_id": ".<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.rekordbox",
+    "offscreen": false,
+    "rect": {
+     "y": 412,
+     "width": 133,
+     "height": 11,
+     "x": 323
+    }
+   },
+   {
+    "index": 498,
+    "name": "H",
+    "type": "ControlType.Text",
+    "automation_id": "H.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.rekordbox",
+    "offscreen": false,
+    "rect": {
+     "y": 389,
+     "width": 11,
+     "height": 11,
+     "x": 464
+    }
+   },
+   {
+    "index": 499,
+    "name": "",
+    "type": "ControlType.Text",
+    "automation_id": ".<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.rekordbox",
+    "offscreen": false,
+    "rect": {
+     "y": 412,
+     "width": 133,
+     "height": 11,
+     "x": 464
+    }
+   },
+   {
+    "index": 501,
+    "name": "I",
+    "type": "ControlType.Text",
+    "automation_id": "I.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.rekordbox",
+    "offscreen": false,
+    "rect": {
+     "y": 433,
+     "width": 11,
+     "height": 11,
+     "x": 41
+    }
+   },
+   {
+    "index": 502,
+    "name": "",
+    "type": "ControlType.Text",
+    "automation_id": ".<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.rekordbox",
+    "offscreen": false,
+    "rect": {
+     "y": 456,
+     "width": 133,
+     "height": 11,
+     "x": 41
+    }
+   },
+   {
+    "index": 504,
+    "name": "J",
+    "type": "ControlType.Text",
+    "automation_id": "J.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.rekordbox",
+    "offscreen": false,
+    "rect": {
+     "y": 433,
+     "width": 11,
+     "height": 11,
+     "x": 182
+    }
+   },
+   {
+    "index": 505,
+    "name": "",
+    "type": "ControlType.Text",
+    "automation_id": ".<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.rekordbox",
+    "offscreen": false,
+    "rect": {
+     "y": 456,
+     "width": 133,
+     "height": 11,
+     "x": 182
+    }
+   },
+   {
+    "index": 507,
+    "name": "K",
+    "type": "ControlType.Text",
+    "automation_id": "K.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.rekordbox",
+    "offscreen": false,
+    "rect": {
+     "y": 433,
+     "width": 11,
+     "height": 11,
+     "x": 323
+    }
+   },
+   {
+    "index": 508,
+    "name": "",
+    "type": "ControlType.Text",
+    "automation_id": ".<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.rekordbox",
+    "offscreen": false,
+    "rect": {
+     "y": 456,
+     "width": 133,
+     "height": 11,
+     "x": 323
+    }
+   },
+   {
+    "index": 510,
+    "name": "L",
+    "type": "ControlType.Text",
+    "automation_id": "L.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.rekordbox",
+    "offscreen": false,
+    "rect": {
+     "y": 433,
+     "width": 11,
+     "height": 11,
+     "x": 464
+    }
+   },
+   {
+    "index": 511,
+    "name": "",
+    "type": "ControlType.Text",
+    "automation_id": ".<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.rekordbox",
+    "offscreen": false,
+    "rect": {
+     "y": 456,
+     "width": 133,
+     "height": 11,
+     "x": 464
+    }
+   },
+   {
+    "index": 513,
+    "name": "M",
+    "type": "ControlType.Text",
+    "automation_id": "M.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.rekordbox",
+    "offscreen": false,
+    "rect": {
+     "y": 477,
+     "width": 11,
+     "height": 11,
+     "x": 41
+    }
+   },
+   {
+    "index": 516,
+    "name": "N",
+    "type": "ControlType.Text",
+    "automation_id": "N.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.rekordbox",
+    "offscreen": false,
+    "rect": {
+     "y": 477,
+     "width": 11,
+     "height": 11,
+     "x": 182
+    }
+   },
+   {
+    "index": 519,
+    "name": "O",
+    "type": "ControlType.Text",
+    "automation_id": "O.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.rekordbox",
+    "offscreen": false,
+    "rect": {
+     "y": 477,
+     "width": 11,
+     "height": 11,
+     "x": 323
+    }
+   },
+   {
+    "index": 522,
+    "name": "P",
+    "type": "ControlType.Text",
+    "automation_id": "P.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.rekordbox",
+    "offscreen": false,
+    "rect": {
+     "y": 477,
+     "width": 11,
+     "height": 11,
+     "x": 464
+    }
+   },
+   {
+    "index": 528,
+    "name": " 134.15",
+    "type": "ControlType.Edit",
+    "automation_id": " 134.15.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.rekordbox",
+    "offscreen": false,
+    "rect": {
+     "y": 378,
+     "width": 54,
+     "height": 23,
+     "x": 772
+    },
+    "value": " 134.15"
+   },
+   {
+    "index": 529,
+    "name": "-0.6",
+    "type": "ControlType.Text",
+    "automation_id": "-0.6.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.rekordbox",
+    "offscreen": false,
+    "rect": {
+     "y": 401,
+     "width": 26,
+     "height": 11,
+     "x": 762
+    }
+   },
+   {
+    "index": 530,
+    "name": "",
+    "type": "ControlType.Text",
+    "automation_id": ".<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.rekordbox",
+    "offscreen": false,
+    "rect": {
+     "y": 401,
+     "width": 34,
+     "height": 11,
+     "x": 762
+    }
+   },
+   {
+    "index": 531,
+    "name": "%",
+    "type": "ControlType.Text",
+    "automation_id": "%.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.rekordbox",
+    "offscreen": false,
+    "rect": {
+     "y": 401,
+     "width": 8,
+     "height": 11,
+     "x": 789
+    }
+   },
+   {
+    "index": 532,
+    "name": "±6",
+    "type": "ControlType.Text",
+    "automation_id": "±6.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.rekordbox",
+    "offscreen": false,
+    "rect": {
+     "y": 401,
+     "width": 32,
+     "height": 11,
+     "x": 801
+    }
+   },
+   {
+    "index": 537,
+    "name": "プレイ/ポーズ",
+    "type": "ControlType.Button",
+    "automation_id": "プレイ/ポーズ.<empty>.<empty>.<empty>.<empty>.<empty>.rekordbox",
+    "offscreen": false,
+    "rect": {
+     "y": 416,
+     "width": 36,
+     "height": 36,
+     "x": 696
+    }
+   },
+   {
+    "index": 541,
+    "name": " 134.15",
+    "type": "ControlType.Text",
+    "automation_id": " 134.15.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.rekordbox",
+    "offscreen": false,
+    "rect": {
+     "y": 378,
+     "width": 54,
+     "height": 23,
+     "x": 1104
+    }
+   },
+   {
+    "index": 542,
+    "name": "134.14",
+    "type": "ControlType.Text",
+    "automation_id": "134.14.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.rekordbox",
+    "offscreen": false,
+    "rect": {
+     "y": 401,
+     "width": 34,
+     "height": 11,
+     "x": 1094
+    }
+   },
+   {
+    "index": 543,
+    "name": "",
+    "type": "ControlType.Text",
+    "automation_id": ".<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.rekordbox",
+    "offscreen": false,
+    "rect": {
+     "y": 401,
+     "width": 34,
+     "height": 11,
+     "x": 1094
+    }
+   },
+   {
+    "index": 544,
+    "name": "±6",
+    "type": "ControlType.Text",
+    "automation_id": "±6.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.rekordbox",
+    "offscreen": false,
+    "rect": {
+     "y": 401,
+     "width": 32,
+     "height": 11,
+     "x": 1133
+    }
+   },
+   {
+    "index": 549,
+    "name": "プレイ/ポーズ",
+    "type": "ControlType.Button",
+    "automation_id": "プレイ/ポーズ.<empty>.<empty>.<empty>.<empty>.<empty>.rekordbox",
+    "offscreen": false,
+    "rect": {
+     "y": 416,
+     "width": 36,
+     "height": 36,
+     "x": 1028
+    }
+   },
+   {
+    "index": 556,
+    "name": "A",
+    "type": "ControlType.Text",
+    "automation_id": "A.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.rekordbox",
+    "offscreen": false,
+    "rect": {
+     "y": 345,
+     "width": 11,
+     "height": 11,
+     "x": 1317
+    }
+   },
+   {
+    "index": 557,
+    "name": "",
+    "type": "ControlType.Text",
+    "automation_id": ".<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.rekordbox",
+    "offscreen": false,
+    "rect": {
+     "y": 368,
+     "width": 133,
+     "height": 11,
+     "x": 1317
+    }
+   },
+   {
+    "index": 559,
+    "name": "B",
+    "type": "ControlType.Text",
+    "automation_id": "B.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.rekordbox",
+    "offscreen": false,
+    "rect": {
+     "y": 345,
+     "width": 11,
+     "height": 11,
+     "x": 1458
+    }
+   },
+   {
+    "index": 560,
+    "name": "01:14",
+    "type": "ControlType.Text",
+    "automation_id": "01:14.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.rekordbox",
+    "offscreen": false,
+    "rect": {
+     "y": 368,
+     "width": 133,
+     "height": 11,
+     "x": 1458
+    }
+   },
+   {
+    "index": 562,
+    "name": "C",
+    "type": "ControlType.Text",
+    "automation_id": "C.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.rekordbox",
+    "offscreen": false,
+    "rect": {
+     "y": 345,
+     "width": 11,
+     "height": 11,
+     "x": 1599
+    }
+   },
+   {
+    "index": 563,
+    "name": "02:27",
+    "type": "ControlType.Text",
+    "automation_id": "02:27.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.rekordbox",
+    "offscreen": false,
+    "rect": {
+     "y": 368,
+     "width": 133,
+     "height": 11,
+     "x": 1599
+    }
+   },
+   {
+    "index": 565,
+    "name": "D",
+    "type": "ControlType.Text",
+    "automation_id": "D.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.rekordbox",
+    "offscreen": false,
+    "rect": {
+     "y": 345,
+     "width": 11,
+     "height": 11,
+     "x": 1740
+    }
+   },
+   {
+    "index": 566,
+    "name": "",
+    "type": "ControlType.Text",
+    "automation_id": ".<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.rekordbox",
+    "offscreen": false,
+    "rect": {
+     "y": 368,
+     "width": 133,
+     "height": 11,
+     "x": 1740
+    }
+   },
+   {
+    "index": 568,
+    "name": "E",
+    "type": "ControlType.Text",
+    "automation_id": "E.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.rekordbox",
+    "offscreen": false,
+    "rect": {
+     "y": 389,
+     "width": 11,
+     "height": 11,
+     "x": 1317
+    }
+   },
+   {
+    "index": 569,
+    "name": "",
+    "type": "ControlType.Text",
+    "automation_id": ".<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.rekordbox",
+    "offscreen": false,
+    "rect": {
+     "y": 412,
+     "width": 133,
+     "height": 11,
+     "x": 1317
+    }
+   },
+   {
+    "index": 571,
+    "name": "F",
+    "type": "ControlType.Text",
+    "automation_id": "F.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.rekordbox",
+    "offscreen": false,
+    "rect": {
+     "y": 389,
+     "width": 11,
+     "height": 11,
+     "x": 1458
+    }
+   },
+   {
+    "index": 572,
+    "name": "",
+    "type": "ControlType.Text",
+    "automation_id": ".<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.rekordbox",
+    "offscreen": false,
+    "rect": {
+     "y": 412,
+     "width": 133,
+     "height": 11,
+     "x": 1458
+    }
+   },
+   {
+    "index": 574,
+    "name": "G",
+    "type": "ControlType.Text",
+    "automation_id": "G.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.rekordbox",
+    "offscreen": false,
+    "rect": {
+     "y": 389,
+     "width": 11,
+     "height": 11,
+     "x": 1599
+    }
+   },
+   {
+    "index": 575,
+    "name": "",
+    "type": "ControlType.Text",
+    "automation_id": ".<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.rekordbox",
+    "offscreen": false,
+    "rect": {
+     "y": 412,
+     "width": 133,
+     "height": 11,
+     "x": 1599
+    }
+   },
+   {
+    "index": 577,
+    "name": "H",
+    "type": "ControlType.Text",
+    "automation_id": "H.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.rekordbox",
+    "offscreen": false,
+    "rect": {
+     "y": 389,
+     "width": 11,
+     "height": 11,
+     "x": 1740
+    }
+   },
+   {
+    "index": 578,
+    "name": "",
+    "type": "ControlType.Text",
+    "automation_id": ".<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.rekordbox",
+    "offscreen": false,
+    "rect": {
+     "y": 412,
+     "width": 133,
+     "height": 11,
+     "x": 1740
+    }
+   },
+   {
+    "index": 580,
+    "name": "I",
+    "type": "ControlType.Text",
+    "automation_id": "I.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.rekordbox",
+    "offscreen": false,
+    "rect": {
+     "y": 433,
+     "width": 11,
+     "height": 11,
+     "x": 1317
+    }
+   },
+   {
+    "index": 581,
+    "name": "",
+    "type": "ControlType.Text",
+    "automation_id": ".<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.rekordbox",
+    "offscreen": false,
+    "rect": {
+     "y": 456,
+     "width": 133,
+     "height": 11,
+     "x": 1317
+    }
+   },
+   {
+    "index": 583,
+    "name": "J",
+    "type": "ControlType.Text",
+    "automation_id": "J.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.rekordbox",
+    "offscreen": false,
+    "rect": {
+     "y": 433,
+     "width": 11,
+     "height": 11,
+     "x": 1458
+    }
+   },
+   {
+    "index": 584,
+    "name": "",
+    "type": "ControlType.Text",
+    "automation_id": ".<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.rekordbox",
+    "offscreen": false,
+    "rect": {
+     "y": 456,
+     "width": 133,
+     "height": 11,
+     "x": 1458
+    }
+   },
+   {
+    "index": 586,
+    "name": "K",
+    "type": "ControlType.Text",
+    "automation_id": "K.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.rekordbox",
+    "offscreen": false,
+    "rect": {
+     "y": 433,
+     "width": 11,
+     "height": 11,
+     "x": 1599
+    }
+   },
+   {
+    "index": 587,
+    "name": "",
+    "type": "ControlType.Text",
+    "automation_id": ".<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.rekordbox",
+    "offscreen": false,
+    "rect": {
+     "y": 456,
+     "width": 133,
+     "height": 11,
+     "x": 1599
+    }
+   },
+   {
+    "index": 589,
+    "name": "L",
+    "type": "ControlType.Text",
+    "automation_id": "L.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.rekordbox",
+    "offscreen": false,
+    "rect": {
+     "y": 433,
+     "width": 11,
+     "height": 11,
+     "x": 1740
+    }
+   },
+   {
+    "index": 590,
+    "name": "",
+    "type": "ControlType.Text",
+    "automation_id": ".<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.rekordbox",
+    "offscreen": false,
+    "rect": {
+     "y": 456,
+     "width": 133,
+     "height": 11,
+     "x": 1740
+    }
+   },
+   {
+    "index": 592,
+    "name": "M",
+    "type": "ControlType.Text",
+    "automation_id": "M.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.rekordbox",
+    "offscreen": false,
+    "rect": {
+     "y": 477,
+     "width": 11,
+     "height": 11,
+     "x": 1317
+    }
+   },
+   {
+    "index": 595,
+    "name": "N",
+    "type": "ControlType.Text",
+    "automation_id": "N.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.rekordbox",
+    "offscreen": false,
+    "rect": {
+     "y": 477,
+     "width": 11,
+     "height": 11,
+     "x": 1458
+    }
+   },
+   {
+    "index": 598,
+    "name": "O",
+    "type": "ControlType.Text",
+    "automation_id": "O.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.rekordbox",
+    "offscreen": false,
+    "rect": {
+     "y": 477,
+     "width": 11,
+     "height": 11,
+     "x": 1599
+    }
+   },
+   {
+    "index": 601,
+    "name": "P",
+    "type": "ControlType.Text",
+    "automation_id": "P.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.<empty>.rekordbox",
+    "offscreen": false,
+    "rect": {
+     "y": 477,
+     "width": 11,
+     "height": 11,
+     "x": 1740
+    }
+   }
+  ],
+  "capture_mode": "tracked"
+ },
+ "expected": {
+  "source": "windows_uia",
+  "received_at": "2026-11-18T16:28:45.2918498Z",
+  "layout": "experimental_horizontal_2deck",
+  "valid": true,
+  "decks": {
+   "1": {
+    "loaded": true,
+    "title": "Embrace Blade",
+    "artist": "アフィリア・サーガ",
+    "bpm_original": 135.0,
+    "bpm_current": 134.15,
+    "position_seconds": 75.3,
+    "remaining_seconds": 160.0,
+    "playing": null,
+    "master": null
+   },
+   "2": {
+    "loaded": true,
+    "title": "Precious You☆",
+    "artist": "システィーナ=フィーベル(CV:藤田 茜)、ルミア=ティンジェル(CV:宮本侑芽)、リィエル=レイフォード(CV:小澤亜李)",
+    "bpm_original": 130.0,
+    "bpm_current": 134.15,
+    "position_seconds": 0.2,
+    "remaining_seconds": 233.5,
+    "playing": null,
+    "master": null
+   }
+  },
+  "on_air_estimate": null
+ }
+}

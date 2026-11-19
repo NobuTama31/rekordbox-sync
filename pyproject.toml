@@ -1,0 +1,49 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "rekordbox-sync"
+version = "0.1.0"
+description = "Read-only Rekordbox live state library and local HTTP API"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = ["mido==1.3.3", "python-rtmidi==1.5.8; sys_platform == 'win32'"]
+
+[project.optional-dependencies]
+probe = ["python-osc==1.9.3"]
+gui = ["customtkinter==6.0.0", "pillow==13.0.0"]
+
+[project.scripts]
+rekordbox-sync = "rekordbox_sync.cli.main:main"
+song-catalog = "song_catalog.cli:main"
+
+[project.gui-scripts]
+rekordbox-sync-gui = "rekordbox_sync.gui.app:main"
+
+[tool.ruff]
+target-version = "py310"
+# 120, not the 88 default: much of the code (parser geometry, GUI
+# layout) was written at this grain and reads fine; the formatter's
+# job here is quotes/spacing/trailing commas, not re-layout.
+line-length = 120
+
+[tool.ruff.lint]
+# Deliberately small: correctness (F, E9), readability (import order,
+# current typing spellings) — and nothing that fights the codebase's
+# intentional patterns. Not selected on purpose: BLE (blind excepts
+# guard the diagnostics and convert source failures into observations)
+# and the PL/TRY/S/B families, whose fixes would change behavior or
+# exception types rather than tidy the code.
+select = ["E4", "E7", "E9", "F", "I", "UP", "RUF022", "RUF059"]
+ignore = ["UP031"]  # %-formatting stays where it is idiomatic (logging, script templates)
+# RUF is not selected wholesale: RUF001-003 would flag the GUI's
+# Japanese UI strings, whose fullwidth punctuation is deliberate.
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+"rekordbox_sync.sources.uia" = ["capture.ps1"]
+"rekordbox_sync.gui" = ["theme.json"]
+"rekordbox_sync.api" = ["overlay/index.html", "overlay/overlay.css", "overlay/overlay.js"]

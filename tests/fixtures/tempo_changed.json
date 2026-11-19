@@ -1,0 +1,6709 @@
+{
+  "input": {
+    "received_at": "2026-11-16T05:53:00.4305142Z",
+    "label": "deck1-play-pause-deck2-tempo",
+    "elements": [
+      {
+        "name": "rekordbox",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 587,
+          "width": 1920,
+          "height": 417,
+          "x": 0
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 587,
+          "width": 1920,
+          "height": 417,
+          "x": 0
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 587,
+          "width": 1920,
+          "height": 417,
+          "x": 0
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 587,
+          "width": 322,
+          "height": 417,
+          "x": 0
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 587,
+          "width": 1,
+          "height": 417,
+          "x": 0
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 587,
+          "width": 1,
+          "height": 417,
+          "x": 0
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 587,
+          "width": 1,
+          "height": 417,
+          "x": 0
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 587,
+          "width": 1,
+          "height": 417,
+          "x": 0
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 587,
+          "width": 1,
+          "height": 232,
+          "x": 0
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 587,
+          "width": 1,
+          "height": 29,
+          "x": 0
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 616,
+          "width": 1,
+          "height": 29,
+          "x": 0
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 645,
+          "width": 1,
+          "height": 29,
+          "x": 0
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 674,
+          "width": 1,
+          "height": 29,
+          "x": 0
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 703,
+          "width": 1,
+          "height": 29,
+          "x": 0
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 732,
+          "width": 1,
+          "height": 29,
+          "x": 0
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 761,
+          "width": 1,
+          "height": 29,
+          "x": 0
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 790,
+          "width": 1,
+          "height": 29,
+          "x": 0
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 587,
+          "width": 1,
+          "height": 417,
+          "x": 1
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 587,
+          "width": 320,
+          "height": 417,
+          "x": 2
+        }
+      },
+      {
+        "name": "ShowHideTreeShortcutButton",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 587,
+          "width": 18,
+          "height": 20,
+          "x": 6
+        }
+      },
+      {
+        "name": "ShowHideSubBrowseButton",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 588,
+          "width": 20,
+          "height": 19,
+          "x": 50
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 609,
+          "width": 36,
+          "height": 395,
+          "x": 2
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 609,
+          "width": 36,
+          "height": 395,
+          "x": 2
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 609,
+          "width": 36,
+          "height": 395,
+          "x": 2
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 609,
+          "width": 34,
+          "height": 311,
+          "x": 2
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 612,
+          "width": 19,
+          "height": 19,
+          "x": 7
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 634,
+          "width": 19,
+          "height": 19,
+          "x": 7
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 656,
+          "width": 19,
+          "height": 19,
+          "x": 7
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 678,
+          "width": 19,
+          "height": 19,
+          "x": 7
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 700,
+          "width": 19,
+          "height": 19,
+          "x": 7
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 722,
+          "width": 19,
+          "height": 19,
+          "x": 7
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 744,
+          "width": 19,
+          "height": 19,
+          "x": 7
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 766,
+          "width": 19,
+          "height": 19,
+          "x": 7
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 788,
+          "width": 19,
+          "height": 19,
+          "x": 7
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 810,
+          "width": 19,
+          "height": 19,
+          "x": 7
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 832,
+          "width": 19,
+          "height": 19,
+          "x": 7
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 854,
+          "width": 19,
+          "height": 19,
+          "x": 7
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 876,
+          "width": 19,
+          "height": 19,
+          "x": 7
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 898,
+          "width": 19,
+          "height": 19,
+          "x": 7
+        }
+      },
+      {
+        "name": "コレクション",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 609,
+          "width": 320,
+          "height": 16,
+          "x": 38
+        },
+        "value": "コレクション"
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 625,
+          "width": 284,
+          "height": 380,
+          "x": 38
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 625,
+          "width": 284,
+          "height": 380,
+          "x": 38
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 625,
+          "width": 282,
+          "height": 380,
+          "x": 38
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 625,
+          "width": 282,
+          "height": 380,
+          "x": 38
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 625,
+          "width": 282,
+          "height": 380,
+          "x": 38
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 625,
+          "width": 282,
+          "height": 90,
+          "x": 38
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 625,
+          "width": 282,
+          "height": 18,
+          "x": 38
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 643,
+          "width": 282,
+          "height": 18,
+          "x": 38
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 661,
+          "width": 282,
+          "height": 18,
+          "x": 38
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 679,
+          "width": 282,
+          "height": 18,
+          "x": 38
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 697,
+          "width": 282,
+          "height": 18,
+          "x": 38
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 587,
+          "width": 5,
+          "height": 417,
+          "x": 322
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 587,
+          "width": 1593,
+          "height": 417,
+          "x": 327
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 587,
+          "width": 1593,
+          "height": 417,
+          "x": 327
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 587,
+          "width": 1568,
+          "height": 417,
+          "x": 327
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 587,
+          "width": 1568,
+          "height": 26,
+          "x": 327
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.ComboBox",
+        "offscreen": false,
+        "rect": {
+          "y": 587,
+          "width": 304,
+          "height": 26,
+          "x": 337
+        },
+        "value": ""
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 588,
+          "width": 212,
+          "height": 24,
+          "x": 1663
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Edit",
+        "offscreen": false,
+        "rect": {
+          "y": 591,
+          "width": 149,
+          "height": 18,
+          "x": 1696
+        }
+      },
+      {
+        "name": "SelectSearchFilterButton",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 593,
+          "width": 26,
+          "height": 14,
+          "x": 1672
+        }
+      },
+      {
+        "name": "SelectPartialArtworkButton",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 591,
+          "width": 18,
+          "height": 18,
+          "x": 1490
+        }
+      },
+      {
+        "name": "SelectFullArtworkButton",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 591,
+          "width": 18,
+          "height": 18,
+          "x": 1528
+        }
+      },
+      {
+        "name": "ShowHideCategoryFilterButton",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 591,
+          "width": 18,
+          "height": 18,
+          "x": 1587
+        }
+      },
+      {
+        "name": "ShowHideColumnFilterButton",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 591,
+          "width": 18,
+          "height": 18,
+          "x": 1625
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 592,
+          "width": 80,
+          "height": 16,
+          "x": 1390
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 592,
+          "width": 80,
+          "height": 16,
+          "x": 1390
+        }
+      },
+      {
+        "name": "MASTER",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 592,
+          "width": 63,
+          "height": 16,
+          "x": 1390
+        },
+        "value": "Off"
+      },
+      {
+        "name": "",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 592,
+          "width": 16,
+          "height": 16,
+          "x": 1454
+        },
+        "value": "Off"
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 613,
+          "width": 1568,
+          "height": 391,
+          "x": 327
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Header",
+        "offscreen": false,
+        "rect": {
+          "y": 613,
+          "width": 1806,
+          "height": 21,
+          "x": 327
+        }
+      },
+      {
+        "name": "アトリビュート",
+        "type": "ControlType.Header",
+        "offscreen": false,
+        "rect": {
+          "y": 613,
+          "width": 84,
+          "height": 21,
+          "x": 327
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Header",
+        "offscreen": false,
+        "rect": {
+          "y": 613,
+          "width": 34,
+          "height": 21,
+          "x": 411
+        }
+      },
+      {
+        "name": "プレビュー",
+        "type": "ControlType.Header",
+        "offscreen": false,
+        "rect": {
+          "y": 613,
+          "width": 200,
+          "height": 21,
+          "x": 445
+        }
+      },
+      {
+        "name": "トラックタイトル",
+        "type": "ControlType.Header",
+        "offscreen": false,
+        "rect": {
+          "y": 613,
+          "width": 204,
+          "height": 21,
+          "x": 645
+        }
+      },
+      {
+        "name": "アーティスト",
+        "type": "ControlType.Header",
+        "offscreen": false,
+        "rect": {
+          "y": 613,
+          "width": 278,
+          "height": 21,
+          "x": 849
+        }
+      },
+      {
+        "name": "BPM",
+        "type": "ControlType.Header",
+        "offscreen": false,
+        "rect": {
+          "y": 613,
+          "width": 69,
+          "height": 21,
+          "x": 1127
+        }
+      },
+      {
+        "name": "アルバム",
+        "type": "ControlType.Header",
+        "offscreen": false,
+        "rect": {
+          "y": 613,
+          "width": 171,
+          "height": 21,
+          "x": 1196
+        }
+      },
+      {
+        "name": "コメント",
+        "type": "ControlType.Header",
+        "offscreen": false,
+        "rect": {
+          "y": 613,
+          "width": 371,
+          "height": 21,
+          "x": 1367
+        }
+      },
+      {
+        "name": "追加日",
+        "type": "ControlType.Header",
+        "offscreen": false,
+        "rect": {
+          "y": 613,
+          "width": 94,
+          "height": 21,
+          "x": 1738
+        }
+      },
+      {
+        "name": "時間",
+        "type": "ControlType.Header",
+        "offscreen": false,
+        "rect": {
+          "y": 613,
+          "width": 69,
+          "height": 21,
+          "x": 1832
+        }
+      },
+      {
+        "name": "ジャンル",
+        "type": "ControlType.Header",
+        "offscreen": false,
+        "rect": {
+          "y": 613,
+          "width": 232,
+          "height": 21,
+          "x": 1901
+        }
+      },
+      {
+        "name": "FilterAttribute",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 618,
+          "width": 10,
+          "height": 10,
+          "x": 364
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 634,
+          "width": 1568,
+          "height": 370,
+          "x": 327
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 634,
+          "width": 1556,
+          "height": 358,
+          "x": 327
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": -6018,
+          "width": 1806,
+          "height": 258195,
+          "x": 327
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 618,
+          "width": 1806,
+          "height": 21,
+          "x": 327
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 618,
+          "width": 1806,
+          "height": 21,
+          "x": 327
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 618,
+          "width": 200,
+          "height": 21,
+          "x": 445
+        }
+      },
+      {
+        "name": "prevCueSnapReg",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 622,
+          "width": 13,
+          "height": 17,
+          "x": 475
+        }
+      },
+      {
+        "name": "prevCueSnapReg",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 622,
+          "width": 7,
+          "height": 17,
+          "x": 525
+        }
+      },
+      {
+        "name": "prevCueSnapReg",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 622,
+          "width": 3,
+          "height": 17,
+          "x": 532
+        }
+      },
+      {
+        "name": "prevCueSnapReg",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 622,
+          "width": 8,
+          "height": 17,
+          "x": 535
+        }
+      },
+      {
+        "name": "prevCueSnapReg",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 622,
+          "width": 13,
+          "height": 17,
+          "x": 612
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 639,
+          "width": 1806,
+          "height": 21,
+          "x": 327
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 639,
+          "width": 1806,
+          "height": 21,
+          "x": 327
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 639,
+          "width": 200,
+          "height": 21,
+          "x": 445
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 660,
+          "width": 1806,
+          "height": 21,
+          "x": 327
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 660,
+          "width": 1806,
+          "height": 21,
+          "x": 327
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 660,
+          "width": 200,
+          "height": 21,
+          "x": 445
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 681,
+          "width": 1806,
+          "height": 21,
+          "x": 327
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 681,
+          "width": 1806,
+          "height": 21,
+          "x": 327
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 681,
+          "width": 200,
+          "height": 21,
+          "x": 445
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 702,
+          "width": 1806,
+          "height": 21,
+          "x": 327
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 702,
+          "width": 1806,
+          "height": 21,
+          "x": 327
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 702,
+          "width": 200,
+          "height": 21,
+          "x": 445
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 723,
+          "width": 1806,
+          "height": 21,
+          "x": 327
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 723,
+          "width": 1806,
+          "height": 21,
+          "x": 327
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 723,
+          "width": 200,
+          "height": 21,
+          "x": 445
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 744,
+          "width": 1806,
+          "height": 21,
+          "x": 327
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 744,
+          "width": 1806,
+          "height": 21,
+          "x": 327
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 744,
+          "width": 200,
+          "height": 21,
+          "x": 445
+        }
+      },
+      {
+        "name": "prevCueSnapReg",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 748,
+          "width": 13,
+          "height": 17,
+          "x": 481
+        }
+      },
+      {
+        "name": "prevCueSnapReg",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 748,
+          "width": 7,
+          "height": 17,
+          "x": 522
+        }
+      },
+      {
+        "name": "prevCueSnapReg",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 748,
+          "width": 7,
+          "height": 17,
+          "x": 529
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 765,
+          "width": 1806,
+          "height": 21,
+          "x": 327
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 765,
+          "width": 1806,
+          "height": 21,
+          "x": 327
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 765,
+          "width": 200,
+          "height": 21,
+          "x": 445
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 786,
+          "width": 1806,
+          "height": 21,
+          "x": 327
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 786,
+          "width": 1806,
+          "height": 21,
+          "x": 327
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 786,
+          "width": 200,
+          "height": 21,
+          "x": 445
+        }
+      },
+      {
+        "name": "prevCueSnapReg",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 790,
+          "width": 5,
+          "height": 17,
+          "x": 475
+        }
+      },
+      {
+        "name": "prevCueSnapReg",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 790,
+          "width": 6,
+          "height": 17,
+          "x": 480
+        }
+      },
+      {
+        "name": "prevCueSnapReg",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 790,
+          "width": 10,
+          "height": 17,
+          "x": 486
+        }
+      },
+      {
+        "name": "prevCueSnapReg",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 790,
+          "width": 13,
+          "height": 17,
+          "x": 496
+        }
+      },
+      {
+        "name": "prevCueSnapReg",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 790,
+          "width": 9,
+          "height": 17,
+          "x": 535
+        }
+      },
+      {
+        "name": "prevCueSnapReg",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 790,
+          "width": 10,
+          "height": 17,
+          "x": 544
+        }
+      },
+      {
+        "name": "prevCueSnapReg",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 790,
+          "width": 6,
+          "height": 17,
+          "x": 554
+        }
+      },
+      {
+        "name": "prevCueSnapReg",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 790,
+          "width": 7,
+          "height": 17,
+          "x": 560
+        }
+      },
+      {
+        "name": "prevCueSnapReg",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 790,
+          "width": 13,
+          "height": 17,
+          "x": 567
+        }
+      },
+      {
+        "name": "prevCueSnapReg",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 790,
+          "width": 13,
+          "height": 17,
+          "x": 619
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 807,
+          "width": 1806,
+          "height": 21,
+          "x": 327
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 807,
+          "width": 1806,
+          "height": 21,
+          "x": 327
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 807,
+          "width": 200,
+          "height": 21,
+          "x": 445
+        }
+      },
+      {
+        "name": "prevCueSnapReg",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 811,
+          "width": 5,
+          "height": 17,
+          "x": 475
+        }
+      },
+      {
+        "name": "prevCueSnapReg",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 811,
+          "width": 10,
+          "height": 17,
+          "x": 480
+        }
+      },
+      {
+        "name": "prevCueSnapReg",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 811,
+          "width": 9,
+          "height": 17,
+          "x": 520
+        }
+      },
+      {
+        "name": "prevCueSnapReg",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 811,
+          "width": 10,
+          "height": 17,
+          "x": 529
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 828,
+          "width": 1806,
+          "height": 21,
+          "x": 327
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 828,
+          "width": 1806,
+          "height": 21,
+          "x": 327
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 828,
+          "width": 200,
+          "height": 21,
+          "x": 445
+        }
+      },
+      {
+        "name": "prevCueSnapReg",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 832,
+          "width": 3,
+          "height": 17,
+          "x": 475
+        }
+      },
+      {
+        "name": "prevCueSnapReg",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 832,
+          "width": 6,
+          "height": 17,
+          "x": 478
+        }
+      },
+      {
+        "name": "prevCueSnapReg",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 832,
+          "width": 9,
+          "height": 17,
+          "x": 484
+        }
+      },
+      {
+        "name": "prevCueSnapReg",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 832,
+          "width": 12,
+          "height": 17,
+          "x": 493
+        }
+      },
+      {
+        "name": "prevCueSnapReg",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 832,
+          "width": 12,
+          "height": 17,
+          "x": 550
+        }
+      },
+      {
+        "name": "prevCueSnapReg",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 832,
+          "width": 12,
+          "height": 17,
+          "x": 562
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 849,
+          "width": 1806,
+          "height": 21,
+          "x": 327
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 849,
+          "width": 1806,
+          "height": 21,
+          "x": 327
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 849,
+          "width": 200,
+          "height": 21,
+          "x": 445
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 870,
+          "width": 1806,
+          "height": 21,
+          "x": 327
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 870,
+          "width": 1806,
+          "height": 21,
+          "x": 327
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 870,
+          "width": 200,
+          "height": 21,
+          "x": 445
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 891,
+          "width": 1806,
+          "height": 21,
+          "x": 327
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 891,
+          "width": 1806,
+          "height": 21,
+          "x": 327
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 891,
+          "width": 200,
+          "height": 21,
+          "x": 445
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 912,
+          "width": 1806,
+          "height": 21,
+          "x": 327
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 912,
+          "width": 1806,
+          "height": 21,
+          "x": 327
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 912,
+          "width": 200,
+          "height": 21,
+          "x": 445
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 933,
+          "width": 1806,
+          "height": 21,
+          "x": 327
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 933,
+          "width": 1806,
+          "height": 21,
+          "x": 327
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 933,
+          "width": 200,
+          "height": 21,
+          "x": 445
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 954,
+          "width": 1806,
+          "height": 21,
+          "x": 327
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 954,
+          "width": 1806,
+          "height": 21,
+          "x": 327
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 954,
+          "width": 200,
+          "height": 21,
+          "x": 445
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 975,
+          "width": 1806,
+          "height": 21,
+          "x": 327
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 975,
+          "width": 1806,
+          "height": 21,
+          "x": 327
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 975,
+          "width": 200,
+          "height": 21,
+          "x": 445
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 996,
+          "width": 1806,
+          "height": 21,
+          "x": 327
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 996,
+          "width": 1806,
+          "height": 21,
+          "x": 327
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 996,
+          "width": 200,
+          "height": 21,
+          "x": 445
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.ScrollBar",
+        "offscreen": false,
+        "rect": {
+          "y": 634,
+          "width": 12,
+          "height": 359,
+          "x": 1883
+        },
+        "value": "6652"
+      },
+      {
+        "name": "",
+        "type": "ControlType.ScrollBar",
+        "offscreen": false,
+        "rect": {
+          "y": 992,
+          "width": 1557,
+          "height": 12,
+          "x": 327
+        },
+        "value": "0"
+      },
+      {
+        "name": "ShowHideMyTagButton",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 671,
+          "width": 24,
+          "height": 20,
+          "x": 1896
+        }
+      },
+      {
+        "name": "ShowHideRelatedTracksButton",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 705,
+          "width": 24,
+          "height": 20,
+          "x": 1896
+        },
+        "value": "Off"
+      },
+      {
+        "name": "ShowHideTrackSuggestionButton",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 739,
+          "width": 24,
+          "height": 20,
+          "x": 1896
+        },
+        "value": "Off"
+      },
+      {
+        "name": "ShowHideTrackInfoButton",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 773,
+          "width": 24,
+          "height": 20,
+          "x": 1896
+        }
+      },
+      {
+        "name": "ShowHideSubBrowseButton",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 807,
+          "width": 24,
+          "height": 20,
+          "x": 1896
+        }
+      },
+      {
+        "name": "ShowHideAutomixBrowseButton",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 841,
+          "width": 24,
+          "height": 20,
+          "x": 1896
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 587,
+          "width": 24,
+          "height": 28,
+          "x": 1896
+        }
+      },
+      {
+        "name": "HidePaletteButton",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 592,
+          "width": 18,
+          "height": 18,
+          "x": 1898
+        },
+        "value": "Off"
+      },
+      {
+        "name": "",
+        "type": "ControlType.Pane",
+        "offscreen": false,
+        "rect": {
+          "y": 45,
+          "width": 1920,
+          "height": 542,
+          "x": 0
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 45,
+          "width": 1920,
+          "height": 987,
+          "x": 0
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 45,
+          "width": 1920,
+          "height": 542,
+          "x": 0
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 47,
+          "width": 25,
+          "height": 28,
+          "x": 1477
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 48,
+          "width": 144,
+          "height": 22,
+          "x": 1652
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 52,
+          "width": 22,
+          "height": 16,
+          "x": 1652
+        },
+        "value": "On"
+      },
+      {
+        "name": "",
+        "type": "ControlType.ComboBox",
+        "offscreen": false,
+        "rect": {
+          "y": 49,
+          "width": 40,
+          "height": 20,
+          "x": 135
+        },
+        "value": "2Deck Horizontal"
+      },
+      {
+        "name": "",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 49,
+          "width": 20,
+          "height": 20,
+          "x": 195
+        },
+        "value": "On"
+      },
+      {
+        "name": "",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 49,
+          "width": 20,
+          "height": 20,
+          "x": 232
+        },
+        "value": "Off"
+      },
+      {
+        "name": "",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 49,
+          "width": 20,
+          "height": 20,
+          "x": 269
+        },
+        "value": "Off"
+      },
+      {
+        "name": "",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 49,
+          "width": 20,
+          "height": 20,
+          "x": 306
+        },
+        "value": "On"
+      },
+      {
+        "name": "",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 49,
+          "width": 20,
+          "height": 20,
+          "x": 343
+        },
+        "value": "On"
+      },
+      {
+        "name": "",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 49,
+          "width": 20,
+          "height": 20,
+          "x": 380
+        },
+        "value": "Off"
+      },
+      {
+        "name": "Free Plus",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 50,
+          "width": 77,
+          "height": 20,
+          "x": 1518
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.ComboBox",
+        "offscreen": false,
+        "rect": {
+          "y": 51,
+          "width": 110,
+          "height": 16,
+          "x": 10
+        },
+        "value": "PERFORMANCE"
+      },
+      {
+        "name": "LINK",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 51,
+          "width": 40,
+          "height": 16,
+          "x": 435
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 51,
+          "width": 14,
+          "height": 14,
+          "x": 1618
+        },
+        "value": "Off"
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 52,
+          "width": 52,
+          "height": 14,
+          "x": 1799
+        }
+      },
+      {
+        "name": "MIDI",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 53,
+          "width": 30,
+          "height": 16,
+          "x": 1430
+        }
+      },
+      {
+        "name": "14:52",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 53,
+          "width": 38,
+          "height": 12,
+          "x": 1868
+        },
+        "value": "14:52"
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 58,
+          "width": 35,
+          "height": 3,
+          "x": 1815
+        }
+      },
+      {
+        "name": "AudioCpuGraphButton",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 58,
+          "width": 35,
+          "height": 10,
+          "x": 1815
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 74,
+          "width": 1920,
+          "height": 79,
+          "x": 0
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 74,
+          "width": 959,
+          "height": 49,
+          "x": 0
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 74,
+          "width": 426,
+          "height": 49,
+          "x": 235
+        }
+      },
+      {
+        "name": "REVERB",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 76,
+          "width": 104,
+          "height": 18,
+          "x": 244
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 76,
+          "width": 25,
+          "height": 18,
+          "x": 349
+        }
+      },
+      {
+        "name": "ECHO",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 76,
+          "width": 104,
+          "height": 18,
+          "x": 387
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 76,
+          "width": 25,
+          "height": 18,
+          "x": 492
+        }
+      },
+      {
+        "name": "SPIRAL",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 76,
+          "width": 104,
+          "height": 18,
+          "x": 527
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 76,
+          "width": 25,
+          "height": 18,
+          "x": 632
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Slider",
+        "offscreen": false,
+        "rect": {
+          "y": 99,
+          "width": 31,
+          "height": 20,
+          "x": 250
+        },
+        "value": "0.6119148"
+      },
+      {
+        "name": "",
+        "type": "ControlType.Slider",
+        "offscreen": false,
+        "rect": {
+          "y": 99,
+          "width": 31,
+          "height": 20,
+          "x": 393
+        },
+        "value": "0.5000000"
+      },
+      {
+        "name": "",
+        "type": "ControlType.Slider",
+        "offscreen": false,
+        "rect": {
+          "y": 99,
+          "width": 31,
+          "height": 20,
+          "x": 533
+        },
+        "value": "0.5000000"
+      },
+      {
+        "name": "",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 103,
+          "width": 24,
+          "height": 16,
+          "x": 284
+        }
+      },
+      {
+        "name": "50%",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 103,
+          "width": 85,
+          "height": 16,
+          "x": 287
+        },
+        "value": "50%"
+      },
+      {
+        "name": "",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 103,
+          "width": 23,
+          "height": 16,
+          "x": 352
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 103,
+          "width": 24,
+          "height": 16,
+          "x": 427
+        }
+      },
+      {
+        "name": "1",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 103,
+          "width": 85,
+          "height": 16,
+          "x": 430
+        },
+        "value": "1"
+      },
+      {
+        "name": "",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 103,
+          "width": 23,
+          "height": 16,
+          "x": 495
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 103,
+          "width": 24,
+          "height": 16,
+          "x": 567
+        }
+      },
+      {
+        "name": "1",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 103,
+          "width": 85,
+          "height": 16,
+          "x": 570
+        },
+        "value": "1"
+      },
+      {
+        "name": "",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 103,
+          "width": 23,
+          "height": 16,
+          "x": 635
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 74,
+          "width": 150,
+          "height": 49,
+          "x": 661
+        }
+      },
+      {
+        "name": "VINYL BRAKE",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 78,
+          "width": 99,
+          "height": 18,
+          "x": 683
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 78,
+          "width": 25,
+          "height": 18,
+          "x": 783
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 100,
+          "width": 24,
+          "height": 16,
+          "x": 691
+        }
+      },
+      {
+        "name": "3/4",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 100,
+          "width": 86,
+          "height": 16,
+          "x": 694
+        },
+        "value": "3/4"
+      },
+      {
+        "name": "",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 100,
+          "width": 24,
+          "height": 16,
+          "x": 759
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 74,
+          "width": 149,
+          "height": 49,
+          "x": 810
+        }
+      },
+      {
+        "name": "AUTO",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 78,
+          "width": 133,
+          "height": 18,
+          "x": 819
+        }
+      },
+      {
+        "name": "TAP",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 99,
+          "width": 133,
+          "height": 18,
+          "x": 819
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 79,
+          "width": 31,
+          "height": 20,
+          "x": 201
+        }
+      },
+      {
+        "name": "channelSelectButton1",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 82,
+          "width": 25,
+          "height": 17,
+          "x": 97
+        }
+      },
+      {
+        "name": "channelSelectButton2",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 82,
+          "width": 25,
+          "height": 17,
+          "x": 123
+        }
+      },
+      {
+        "name": "channelSelectButtonSampler",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 82,
+          "width": 25,
+          "height": 17,
+          "x": 149
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 99,
+          "width": 31,
+          "height": 20,
+          "x": 201
+        }
+      },
+      {
+        "name": "channelSelectButton3",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 100,
+          "width": 25,
+          "height": 17,
+          "x": 97
+        }
+      },
+      {
+        "name": "channelSelectButton4",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 100,
+          "width": 25,
+          "height": 17,
+          "x": 123
+        }
+      },
+      {
+        "name": "channelSelectButtonMaster",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 100,
+          "width": 25,
+          "height": 17,
+          "x": 149
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 74,
+          "width": 959,
+          "height": 49,
+          "x": 961
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 74,
+          "width": 426,
+          "height": 49,
+          "x": 1196
+        }
+      },
+      {
+        "name": "REVERB",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 76,
+          "width": 104,
+          "height": 18,
+          "x": 1205
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 76,
+          "width": 25,
+          "height": 18,
+          "x": 1310
+        }
+      },
+      {
+        "name": "ECHO",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 76,
+          "width": 104,
+          "height": 18,
+          "x": 1348
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 76,
+          "width": 25,
+          "height": 18,
+          "x": 1453
+        }
+      },
+      {
+        "name": "SPIRAL",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 76,
+          "width": 104,
+          "height": 18,
+          "x": 1488
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 76,
+          "width": 25,
+          "height": 18,
+          "x": 1593
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Slider",
+        "offscreen": false,
+        "rect": {
+          "y": 99,
+          "width": 31,
+          "height": 20,
+          "x": 1211
+        },
+        "value": "0.6119148"
+      },
+      {
+        "name": "",
+        "type": "ControlType.Slider",
+        "offscreen": false,
+        "rect": {
+          "y": 99,
+          "width": 31,
+          "height": 20,
+          "x": 1354
+        },
+        "value": "0.5000000"
+      },
+      {
+        "name": "",
+        "type": "ControlType.Slider",
+        "offscreen": false,
+        "rect": {
+          "y": 99,
+          "width": 31,
+          "height": 20,
+          "x": 1494
+        },
+        "value": "0.5000000"
+      },
+      {
+        "name": "",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 103,
+          "width": 24,
+          "height": 16,
+          "x": 1245
+        }
+      },
+      {
+        "name": "50%",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 103,
+          "width": 85,
+          "height": 16,
+          "x": 1248
+        },
+        "value": "50%"
+      },
+      {
+        "name": "",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 103,
+          "width": 23,
+          "height": 16,
+          "x": 1313
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 103,
+          "width": 24,
+          "height": 16,
+          "x": 1388
+        }
+      },
+      {
+        "name": "1",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 103,
+          "width": 85,
+          "height": 16,
+          "x": 1391
+        },
+        "value": "1"
+      },
+      {
+        "name": "",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 103,
+          "width": 23,
+          "height": 16,
+          "x": 1456
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 103,
+          "width": 24,
+          "height": 16,
+          "x": 1528
+        }
+      },
+      {
+        "name": "1",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 103,
+          "width": 85,
+          "height": 16,
+          "x": 1531
+        },
+        "value": "1"
+      },
+      {
+        "name": "",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 103,
+          "width": 23,
+          "height": 16,
+          "x": 1596
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 74,
+          "width": 150,
+          "height": 49,
+          "x": 1622
+        }
+      },
+      {
+        "name": "VINYL BRAKE",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 78,
+          "width": 99,
+          "height": 18,
+          "x": 1644
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 78,
+          "width": 25,
+          "height": 18,
+          "x": 1744
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 100,
+          "width": 24,
+          "height": 16,
+          "x": 1652
+        }
+      },
+      {
+        "name": "3/4",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 100,
+          "width": 86,
+          "height": 16,
+          "x": 1655
+        },
+        "value": "3/4"
+      },
+      {
+        "name": "",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 100,
+          "width": 24,
+          "height": 16,
+          "x": 1720
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 74,
+          "width": 149,
+          "height": 49,
+          "x": 1771
+        }
+      },
+      {
+        "name": "AUTO",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 78,
+          "width": 133,
+          "height": 18,
+          "x": 1780
+        }
+      },
+      {
+        "name": "TAP",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 99,
+          "width": 133,
+          "height": 18,
+          "x": 1780
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 79,
+          "width": 31,
+          "height": 20,
+          "x": 1162
+        }
+      },
+      {
+        "name": "channelSelectButton1",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 82,
+          "width": 25,
+          "height": 17,
+          "x": 1058
+        }
+      },
+      {
+        "name": "channelSelectButton2",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 82,
+          "width": 25,
+          "height": 17,
+          "x": 1084
+        }
+      },
+      {
+        "name": "channelSelectButtonSampler",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 82,
+          "width": 25,
+          "height": 17,
+          "x": 1110
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 99,
+          "width": 31,
+          "height": 20,
+          "x": 1162
+        }
+      },
+      {
+        "name": "channelSelectButton3",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 100,
+          "width": 25,
+          "height": 17,
+          "x": 1058
+        }
+      },
+      {
+        "name": "channelSelectButton4",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 100,
+          "width": 25,
+          "height": 17,
+          "x": 1084
+        }
+      },
+      {
+        "name": "channelSelectButtonMaster",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 100,
+          "width": 25,
+          "height": 17,
+          "x": 1110
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 126,
+          "width": 1920,
+          "height": 24,
+          "x": 0
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 126,
+          "width": 1139,
+          "height": 24,
+          "x": 481
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 126,
+          "width": 112,
+          "height": 24,
+          "x": 484
+        }
+      },
+      {
+        "name": "FILTER",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 130,
+          "width": 86,
+          "height": 16,
+          "x": 484
+        }
+      },
+      {
+        "name": "S",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 126,
+          "width": 33,
+          "height": 24,
+          "x": 806
+        },
+        "value": "S"
+      },
+      {
+        "name": "3",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 126,
+          "width": 33,
+          "height": 24,
+          "x": 926
+        },
+        "value": "3"
+      },
+      {
+        "name": "1",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 126,
+          "width": 33,
+          "height": 24,
+          "x": 1046
+        },
+        "value": "1"
+      },
+      {
+        "name": "2",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 126,
+          "width": 32,
+          "height": 24,
+          "x": 1165
+        },
+        "value": "2"
+      },
+      {
+        "name": "4",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 126,
+          "width": 32,
+          "height": 24,
+          "x": 1285
+        },
+        "value": "4"
+      },
+      {
+        "name": "M",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 126,
+          "width": 32,
+          "height": 24,
+          "x": 1405
+        },
+        "value": "M"
+      },
+      {
+        "name": "PARAM",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 127,
+          "width": 64,
+          "height": 22,
+          "x": 658
+        },
+        "value": "PARAM"
+      },
+      {
+        "name": "",
+        "type": "ControlType.Slider",
+        "offscreen": false,
+        "rect": {
+          "y": 127,
+          "width": 34,
+          "height": 22,
+          "x": 721
+        },
+        "value": "0.5000000"
+      },
+      {
+        "name": "",
+        "type": "ControlType.Slider",
+        "offscreen": false,
+        "rect": {
+          "y": 127,
+          "width": 34,
+          "height": 22,
+          "x": 839
+        },
+        "value": "0.5000000"
+      },
+      {
+        "name": "",
+        "type": "ControlType.Slider",
+        "offscreen": false,
+        "rect": {
+          "y": 127,
+          "width": 34,
+          "height": 22,
+          "x": 959
+        },
+        "value": "0.5000000"
+      },
+      {
+        "name": "",
+        "type": "ControlType.Slider",
+        "offscreen": false,
+        "rect": {
+          "y": 127,
+          "width": 34,
+          "height": 22,
+          "x": 1079
+        },
+        "value": "0.5000305"
+      },
+      {
+        "name": "",
+        "type": "ControlType.Slider",
+        "offscreen": false,
+        "rect": {
+          "y": 127,
+          "width": 34,
+          "height": 22,
+          "x": 1198
+        },
+        "value": "0.5000305"
+      },
+      {
+        "name": "",
+        "type": "ControlType.Slider",
+        "offscreen": false,
+        "rect": {
+          "y": 127,
+          "width": 34,
+          "height": 22,
+          "x": 1318
+        },
+        "value": "0.5000000"
+      },
+      {
+        "name": "",
+        "type": "ControlType.Slider",
+        "offscreen": false,
+        "rect": {
+          "y": 127,
+          "width": 34,
+          "height": 22,
+          "x": 1438
+        },
+        "value": "0.5000000"
+      },
+      {
+        "name": "",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 129,
+          "width": 27,
+          "height": 18,
+          "x": 105
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 129,
+          "width": 27,
+          "height": 18,
+          "x": 135
+        }
+      },
+      {
+        "name": "DEFAULT",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 129,
+          "width": 99,
+          "height": 18,
+          "x": 228
+        }
+      },
+      {
+        "name": "USER",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 129,
+          "width": 99,
+          "height": 18,
+          "x": 330
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 153,
+          "width": 1920,
+          "height": 431,
+          "x": 0
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 153,
+          "width": 1920,
+          "height": 431,
+          "x": 0
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 153,
+          "width": 1920,
+          "height": 138,
+          "x": 0
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 153,
+          "width": 1920,
+          "height": 138,
+          "x": 0
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 153,
+          "width": 1920,
+          "height": 69,
+          "x": 0
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 222,
+          "width": 1920,
+          "height": 69,
+          "x": 0
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 153,
+          "width": 1920,
+          "height": 138,
+          "x": 0
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 153,
+          "width": 32,
+          "height": 138,
+          "x": 0
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 155,
+          "width": 10,
+          "height": 10,
+          "x": 6
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 190,
+          "width": 14,
+          "height": 14,
+          "x": 4
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 213,
+          "width": 10,
+          "height": 18,
+          "x": 22
+        },
+        "value": "Off"
+      },
+      {
+        "name": "RST",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 215,
+          "width": 18,
+          "height": 14,
+          "x": 2
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 240,
+          "width": 14,
+          "height": 14,
+          "x": 4
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 279,
+          "width": 10,
+          "height": 10,
+          "x": 6
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 294,
+          "width": 1920,
+          "height": 290,
+          "x": 0
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 312,
+          "width": 36,
+          "height": 157,
+          "x": 916
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Slider",
+        "offscreen": false,
+        "rect": {
+          "y": 312,
+          "width": 24,
+          "height": 24,
+          "x": 922
+        },
+        "value": "4.0"
+      },
+      {
+        "name": "TRIM",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 332,
+          "width": 36,
+          "height": 10,
+          "x": 916
+        },
+        "value": "Off"
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 345,
+          "width": 36,
+          "height": 96,
+          "x": 916
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Slider",
+        "offscreen": false,
+        "rect": {
+          "y": 345,
+          "width": 24,
+          "height": 24,
+          "x": 922
+        },
+        "value": "0"
+      },
+      {
+        "name": "HIGH",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 365,
+          "width": 36,
+          "height": 10,
+          "x": 916
+        },
+        "value": "Off"
+      },
+      {
+        "name": "",
+        "type": "ControlType.Slider",
+        "offscreen": false,
+        "rect": {
+          "y": 378,
+          "width": 24,
+          "height": 24,
+          "x": 922
+        },
+        "value": "0"
+      },
+      {
+        "name": "MID",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 398,
+          "width": 36,
+          "height": 10,
+          "x": 916
+        },
+        "value": "Off"
+      },
+      {
+        "name": "",
+        "type": "ControlType.Slider",
+        "offscreen": false,
+        "rect": {
+          "y": 411,
+          "width": 24,
+          "height": 24,
+          "x": 922
+        },
+        "value": "0"
+      },
+      {
+        "name": "LOW",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 431,
+          "width": 36,
+          "height": 10,
+          "x": 916
+        },
+        "value": "Off"
+      },
+      {
+        "name": "CUE",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 451,
+          "width": 36,
+          "height": 18,
+          "x": 916
+        },
+        "value": "Off"
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 312,
+          "width": 2,
+          "height": 129,
+          "x": 952
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 312,
+          "width": 2,
+          "height": 129,
+          "x": 966
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 312,
+          "width": 36,
+          "height": 157,
+          "x": 968
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Slider",
+        "offscreen": false,
+        "rect": {
+          "y": 312,
+          "width": 24,
+          "height": 24,
+          "x": 974
+        },
+        "value": "5.0"
+      },
+      {
+        "name": "TRIM",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 332,
+          "width": 36,
+          "height": 10,
+          "x": 968
+        },
+        "value": "Off"
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 345,
+          "width": 36,
+          "height": 96,
+          "x": 968
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Slider",
+        "offscreen": false,
+        "rect": {
+          "y": 345,
+          "width": 24,
+          "height": 24,
+          "x": 974
+        },
+        "value": "0"
+      },
+      {
+        "name": "HIGH",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 365,
+          "width": 36,
+          "height": 10,
+          "x": 968
+        },
+        "value": "Off"
+      },
+      {
+        "name": "",
+        "type": "ControlType.Slider",
+        "offscreen": false,
+        "rect": {
+          "y": 378,
+          "width": 24,
+          "height": 24,
+          "x": 974
+        },
+        "value": "0"
+      },
+      {
+        "name": "MID",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 398,
+          "width": 36,
+          "height": 10,
+          "x": 968
+        },
+        "value": "Off"
+      },
+      {
+        "name": "",
+        "type": "ControlType.Slider",
+        "offscreen": false,
+        "rect": {
+          "y": 411,
+          "width": 24,
+          "height": 24,
+          "x": 974
+        },
+        "value": "0"
+      },
+      {
+        "name": "LOW",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 431,
+          "width": 36,
+          "height": 10,
+          "x": 968
+        },
+        "value": "Off"
+      },
+      {
+        "name": "CUE",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 451,
+          "width": 36,
+          "height": 18,
+          "x": 968
+        },
+        "value": "Off"
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 472,
+          "width": 24,
+          "height": 56,
+          "x": 922
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Slider",
+        "offscreen": false,
+        "rect": {
+          "y": 472,
+          "width": 24,
+          "height": 56,
+          "x": 922
+        },
+        "value": "100"
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 472,
+          "width": 24,
+          "height": 56,
+          "x": 974
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Slider",
+        "offscreen": false,
+        "rect": {
+          "y": 472,
+          "width": 24,
+          "height": 56,
+          "x": 974
+        },
+        "value": "0"
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 544,
+          "width": 499,
+          "height": 40,
+          "x": 0
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Slider",
+        "offscreen": false,
+        "rect": {
+          "y": 548,
+          "width": 24,
+          "height": 24,
+          "x": 149
+        },
+        "value": "0"
+      },
+      {
+        "name": "",
+        "type": "ControlType.Slider",
+        "offscreen": false,
+        "rect": {
+          "y": 548,
+          "width": 24,
+          "height": 24,
+          "x": 181
+        },
+        "value": "-3"
+      },
+      {
+        "name": "",
+        "type": "ControlType.Slider",
+        "offscreen": false,
+        "rect": {
+          "y": 548,
+          "width": 24,
+          "height": 24,
+          "x": 213
+        },
+        "value": "0"
+      },
+      {
+        "name": "",
+        "type": "ControlType.Slider",
+        "offscreen": false,
+        "rect": {
+          "y": 548,
+          "width": 24,
+          "height": 24,
+          "x": 337
+        },
+        "value": "0.5520000"
+      },
+      {
+        "name": "TALK\nOVER",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 551,
+          "width": 31,
+          "height": 24,
+          "x": 372
+        },
+        "value": "Off"
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 554,
+          "width": 80,
+          "height": 19,
+          "x": 249
+        }
+      },
+      {
+        "name": "REVERB",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 554,
+          "width": 63,
+          "height": 19,
+          "x": 249
+        },
+        "value": "On"
+      },
+      {
+        "name": "",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 554,
+          "width": 16,
+          "height": 19,
+          "x": 313
+        },
+        "value": "Off"
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 554,
+          "width": 80,
+          "height": 19,
+          "x": 415
+        }
+      },
+      {
+        "name": "LIGHT",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 554,
+          "width": 63,
+          "height": 19,
+          "x": 415
+        },
+        "value": "Off"
+      },
+      {
+        "name": "",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 554,
+          "width": 16,
+          "height": 19,
+          "x": 479
+        },
+        "value": "Off"
+      },
+      {
+        "name": "MIC ON",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 556,
+          "width": 40,
+          "height": 14,
+          "x": 39
+        },
+        "value": "On"
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 561,
+          "width": 50,
+          "height": 3,
+          "x": 87
+        }
+      },
+      {
+        "name": "LOW",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 570,
+          "width": 30,
+          "height": 9,
+          "x": 146
+        },
+        "value": "LOW"
+      },
+      {
+        "name": "MID",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 570,
+          "width": 30,
+          "height": 9,
+          "x": 178
+        },
+        "value": "MID"
+      },
+      {
+        "name": "HI",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 570,
+          "width": 30,
+          "height": 9,
+          "x": 210
+        },
+        "value": "HI"
+      },
+      {
+        "name": "FX",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 570,
+          "width": 30,
+          "height": 9,
+          "x": 334
+        },
+        "value": "FX"
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 549,
+          "width": 254,
+          "height": 30,
+          "x": 833
+        }
+      },
+      {
+        "name": "1",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 549,
+          "width": 30,
+          "height": 14,
+          "x": 833
+        },
+        "value": "Off"
+      },
+      {
+        "name": "2",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 549,
+          "width": 30,
+          "height": 14,
+          "x": 865
+        },
+        "value": "Off"
+      },
+      {
+        "name": "1",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 549,
+          "width": 30,
+          "height": 14,
+          "x": 1025
+        },
+        "value": "Off"
+      },
+      {
+        "name": "2",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 549,
+          "width": 30,
+          "height": 14,
+          "x": 1057
+        },
+        "value": "Off"
+      },
+      {
+        "name": "",
+        "type": "ControlType.Slider",
+        "offscreen": false,
+        "rect": {
+          "y": 554,
+          "width": 96,
+          "height": 24,
+          "x": 912
+        },
+        "value": "0.0640908"
+      },
+      {
+        "name": "3",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 565,
+          "width": 30,
+          "height": 14,
+          "x": 833
+        },
+        "value": "Off"
+      },
+      {
+        "name": "4",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 565,
+          "width": 30,
+          "height": 14,
+          "x": 865
+        },
+        "value": "Off"
+      },
+      {
+        "name": "3",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 565,
+          "width": 30,
+          "height": 14,
+          "x": 1025
+        },
+        "value": "Off"
+      },
+      {
+        "name": "4",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 565,
+          "width": 30,
+          "height": 14,
+          "x": 1057
+        },
+        "value": "Off"
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 294,
+          "width": 904,
+          "height": 114,
+          "x": 0
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 294,
+          "width": 693,
+          "height": 54,
+          "x": 25
+        }
+      },
+      {
+        "name": "いつかの、いくつかのきみとのせかい",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 304,
+          "width": 654,
+          "height": 18,
+          "x": 64
+        },
+        "value": "いつかの、いくつかのきみとのせかい"
+      },
+      {
+        "name": "",
+        "type": "ControlType.Image",
+        "offscreen": false,
+        "rect": {
+          "y": 305,
+          "width": 34,
+          "height": 34,
+          "x": 25
+        }
+      },
+      {
+        "name": "fhána",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 325,
+          "width": 100,
+          "height": 14,
+          "x": 64
+        },
+        "value": "fhána"
+      },
+      {
+        "name": " 99.00",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 325,
+          "width": 44,
+          "height": 14,
+          "x": 179
+        },
+        "value": " 99.00"
+      },
+      {
+        "name": "Eb",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 325,
+          "width": 40,
+          "height": 14,
+          "x": 228
+        },
+        "value": "Eb"
+      },
+      {
+        "name": "BEAT\nSYNC",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 302,
+          "width": 44,
+          "height": 22,
+          "x": 826
+        },
+        "value": "Off"
+      },
+      {
+        "name": "",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 304,
+          "width": 24,
+          "height": 18,
+          "x": 872
+        },
+        "value": "Off"
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 306,
+          "width": 70,
+          "height": 13,
+          "x": 742
+        }
+      },
+      {
+        "name": "KEY SYNC",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 306,
+          "width": 70,
+          "height": 13,
+          "x": 742
+        },
+        "value": "Off"
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 322,
+          "width": 121,
+          "height": 18,
+          "x": 597
+        }
+      },
+      {
+        "name": "-03:55",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 323,
+          "width": 46,
+          "height": 16,
+          "x": 601
+        },
+        "value": "-03:55"
+      },
+      {
+        "name": ".6",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 323,
+          "width": 12,
+          "height": 16,
+          "x": 647
+        },
+        "value": ".6"
+      },
+      {
+        "name": "00:10",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 323,
+          "width": 43,
+          "height": 16,
+          "x": 659
+        },
+        "value": "00:10"
+      },
+      {
+        "name": ".3",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 323,
+          "width": 12,
+          "height": 16,
+          "x": 702
+        },
+        "value": ".3"
+      },
+      {
+        "name": "Eb",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 328,
+          "width": 25,
+          "height": 12,
+          "x": 756
+        }
+      },
+      {
+        "name": "±0",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 328,
+          "width": 15,
+          "height": 12,
+          "x": 783
+        }
+      },
+      {
+        "name": "MASTER",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 328,
+          "width": 70,
+          "height": 13,
+          "x": 826
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 329,
+          "width": 10,
+          "height": 10,
+          "x": 742
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 329,
+          "width": 10,
+          "height": 10,
+          "x": 802
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 350,
+          "width": 900,
+          "height": 35,
+          "x": 2
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 350,
+          "width": 900,
+          "height": 35,
+          "x": 2
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 389,
+          "width": 896,
+          "height": 20,
+          "x": 4
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 294,
+          "width": 904,
+          "height": 114,
+          "x": 1016
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 294,
+          "width": 693,
+          "height": 54,
+          "x": 1041
+        }
+      },
+      {
+        "name": "Home Sweet Home",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 304,
+          "width": 654,
+          "height": 18,
+          "x": 1080
+        },
+        "value": "Home Sweet Home"
+      },
+      {
+        "name": "",
+        "type": "ControlType.Image",
+        "offscreen": false,
+        "rect": {
+          "y": 305,
+          "width": 34,
+          "height": 34,
+          "x": 1041
+        }
+      },
+      {
+        "name": "キサラギ=アリス(CV:富田美憂)、スノウ(CV:菊池紗矢香)、ロゼ(CV:村上奈津実)、グリム(CV:髙橋ミナミ)",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 325,
+          "width": 100,
+          "height": 14,
+          "x": 1080
+        },
+        "value": "キサラギ=アリス(CV:富田美憂)、スノウ(CV:菊池紗矢香)、ロゼ(CV:村上奈津実)、グリム(CV:髙橋ミナミ)"
+      },
+      {
+        "name": "100.00",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 325,
+          "width": 44,
+          "height": 14,
+          "x": 1195
+        },
+        "value": "100.00"
+      },
+      {
+        "name": "F",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 325,
+          "width": 40,
+          "height": 14,
+          "x": 1244
+        },
+        "value": "F"
+      },
+      {
+        "name": "BEAT\nSYNC",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 302,
+          "width": 44,
+          "height": 22,
+          "x": 1842
+        },
+        "value": "Off"
+      },
+      {
+        "name": "",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 304,
+          "width": 24,
+          "height": 18,
+          "x": 1888
+        },
+        "value": "Off"
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 306,
+          "width": 70,
+          "height": 13,
+          "x": 1758
+        }
+      },
+      {
+        "name": "KEY SYNC",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 306,
+          "width": 70,
+          "height": 13,
+          "x": 1758
+        },
+        "value": "Off"
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 322,
+          "width": 121,
+          "height": 18,
+          "x": 1613
+        }
+      },
+      {
+        "name": "-03:55",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 323,
+          "width": 46,
+          "height": 16,
+          "x": 1617
+        },
+        "value": "-03:55"
+      },
+      {
+        "name": ".4",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 323,
+          "width": 12,
+          "height": 16,
+          "x": 1663
+        },
+        "value": ".4"
+      },
+      {
+        "name": "00:00",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 323,
+          "width": 43,
+          "height": 16,
+          "x": 1675
+        },
+        "value": "00:00"
+      },
+      {
+        "name": ".2",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 323,
+          "width": 12,
+          "height": 16,
+          "x": 1718
+        },
+        "value": ".2"
+      },
+      {
+        "name": "F",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 328,
+          "width": 25,
+          "height": 12,
+          "x": 1772
+        }
+      },
+      {
+        "name": "±0",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 328,
+          "width": 15,
+          "height": 12,
+          "x": 1799
+        }
+      },
+      {
+        "name": "MASTER",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 328,
+          "width": 70,
+          "height": 13,
+          "x": 1842
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 329,
+          "width": 10,
+          "height": 10,
+          "x": 1758
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 329,
+          "width": 10,
+          "height": 10,
+          "x": 1818
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 350,
+          "width": 900,
+          "height": 35,
+          "x": 1018
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 350,
+          "width": 900,
+          "height": 35,
+          "x": 1018
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 389,
+          "width": 896,
+          "height": 20,
+          "x": 1020
+        }
+      },
+      {
+        "name": "1",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 302,
+          "width": 12,
+          "height": 12,
+          "x": 8
+        },
+        "value": "1"
+      },
+      {
+        "name": "2",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 302,
+          "width": 12,
+          "height": 12,
+          "x": 1024
+        },
+        "value": "2"
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 411,
+          "width": 28,
+          "height": 130,
+          "x": 0
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 411,
+          "width": 28,
+          "height": 65,
+          "x": 0
+        },
+        "value": "On"
+      },
+      {
+        "name": "",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 476,
+          "width": 28,
+          "height": 65,
+          "x": 0
+        },
+        "value": "Off"
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 411,
+          "width": 646,
+          "height": 130,
+          "x": 38
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 421,
+          "width": 568,
+          "height": 87,
+          "x": 38
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 421,
+          "width": 568,
+          "height": 87,
+          "x": 38
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 421,
+          "width": 563,
+          "height": 175,
+          "x": 38
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 421,
+          "width": 139,
+          "height": 42,
+          "x": 38
+        }
+      },
+      {
+        "name": "A",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 424,
+          "width": 11,
+          "height": 11,
+          "x": 41
+        },
+        "value": "A"
+      },
+      {
+        "name": "",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 447,
+          "width": 133,
+          "height": 11,
+          "x": 41
+        },
+        "value": ""
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 421,
+          "width": 139,
+          "height": 42,
+          "x": 179
+        }
+      },
+      {
+        "name": "B",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 424,
+          "width": 11,
+          "height": 11,
+          "x": 182
+        },
+        "value": "B"
+      },
+      {
+        "name": "",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 447,
+          "width": 133,
+          "height": 11,
+          "x": 182
+        },
+        "value": ""
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 421,
+          "width": 139,
+          "height": 42,
+          "x": 320
+        }
+      },
+      {
+        "name": "C",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 424,
+          "width": 11,
+          "height": 11,
+          "x": 323
+        },
+        "value": "C"
+      },
+      {
+        "name": "",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 447,
+          "width": 133,
+          "height": 11,
+          "x": 323
+        },
+        "value": ""
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 421,
+          "width": 139,
+          "height": 42,
+          "x": 461
+        }
+      },
+      {
+        "name": "D",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 424,
+          "width": 11,
+          "height": 11,
+          "x": 464
+        },
+        "value": "D"
+      },
+      {
+        "name": "",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 447,
+          "width": 133,
+          "height": 11,
+          "x": 464
+        },
+        "value": ""
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 465,
+          "width": 139,
+          "height": 42,
+          "x": 38
+        }
+      },
+      {
+        "name": "E",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 468,
+          "width": 11,
+          "height": 11,
+          "x": 41
+        },
+        "value": "E"
+      },
+      {
+        "name": "",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 491,
+          "width": 133,
+          "height": 11,
+          "x": 41
+        },
+        "value": ""
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 465,
+          "width": 139,
+          "height": 42,
+          "x": 179
+        }
+      },
+      {
+        "name": "F",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 468,
+          "width": 11,
+          "height": 11,
+          "x": 182
+        },
+        "value": "F"
+      },
+      {
+        "name": "",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 491,
+          "width": 133,
+          "height": 11,
+          "x": 182
+        },
+        "value": ""
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 465,
+          "width": 139,
+          "height": 42,
+          "x": 320
+        }
+      },
+      {
+        "name": "G",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 468,
+          "width": 11,
+          "height": 11,
+          "x": 323
+        },
+        "value": "G"
+      },
+      {
+        "name": "",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 491,
+          "width": 133,
+          "height": 11,
+          "x": 323
+        },
+        "value": ""
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 465,
+          "width": 139,
+          "height": 42,
+          "x": 461
+        }
+      },
+      {
+        "name": "H",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 468,
+          "width": 11,
+          "height": 11,
+          "x": 464
+        },
+        "value": "H"
+      },
+      {
+        "name": "",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 491,
+          "width": 133,
+          "height": 11,
+          "x": 464
+        },
+        "value": ""
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 509,
+          "width": 139,
+          "height": 42,
+          "x": 38
+        }
+      },
+      {
+        "name": "I",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 512,
+          "width": 11,
+          "height": 11,
+          "x": 41
+        },
+        "value": "I"
+      },
+      {
+        "name": "",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 535,
+          "width": 133,
+          "height": 11,
+          "x": 41
+        },
+        "value": ""
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 509,
+          "width": 139,
+          "height": 42,
+          "x": 179
+        }
+      },
+      {
+        "name": "J",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 512,
+          "width": 11,
+          "height": 11,
+          "x": 182
+        },
+        "value": "J"
+      },
+      {
+        "name": "",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 535,
+          "width": 133,
+          "height": 11,
+          "x": 182
+        },
+        "value": ""
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 509,
+          "width": 139,
+          "height": 42,
+          "x": 320
+        }
+      },
+      {
+        "name": "K",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 512,
+          "width": 11,
+          "height": 11,
+          "x": 323
+        },
+        "value": "K"
+      },
+      {
+        "name": "",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 535,
+          "width": 133,
+          "height": 11,
+          "x": 323
+        },
+        "value": ""
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 509,
+          "width": 139,
+          "height": 42,
+          "x": 461
+        }
+      },
+      {
+        "name": "L",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 512,
+          "width": 11,
+          "height": 11,
+          "x": 464
+        },
+        "value": "L"
+      },
+      {
+        "name": "",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 535,
+          "width": 133,
+          "height": 11,
+          "x": 464
+        },
+        "value": ""
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 553,
+          "width": 139,
+          "height": 42,
+          "x": 38
+        }
+      },
+      {
+        "name": "M",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 556,
+          "width": 11,
+          "height": 11,
+          "x": 41
+        },
+        "value": "M"
+      },
+      {
+        "name": "",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 579,
+          "width": 133,
+          "height": 11,
+          "x": 41
+        },
+        "value": ""
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 553,
+          "width": 139,
+          "height": 42,
+          "x": 179
+        }
+      },
+      {
+        "name": "N",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 556,
+          "width": 11,
+          "height": 11,
+          "x": 182
+        },
+        "value": "N"
+      },
+      {
+        "name": "",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 579,
+          "width": 133,
+          "height": 11,
+          "x": 182
+        },
+        "value": ""
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 553,
+          "width": 139,
+          "height": 42,
+          "x": 320
+        }
+      },
+      {
+        "name": "O",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 556,
+          "width": 11,
+          "height": 11,
+          "x": 323
+        },
+        "value": "O"
+      },
+      {
+        "name": "",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 579,
+          "width": 133,
+          "height": 11,
+          "x": 323
+        },
+        "value": ""
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 553,
+          "width": 139,
+          "height": 42,
+          "x": 461
+        }
+      },
+      {
+        "name": "P",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 556,
+          "width": 11,
+          "height": 11,
+          "x": 464
+        },
+        "value": "P"
+      },
+      {
+        "name": "",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 579,
+          "width": 133,
+          "height": 11,
+          "x": 464
+        },
+        "value": ""
+      },
+      {
+        "name": "",
+        "type": "ControlType.ScrollBar",
+        "offscreen": false,
+        "rect": {
+          "y": 421,
+          "width": 5,
+          "height": 87,
+          "x": 601
+        },
+        "value": "0"
+      },
+      {
+        "name": "HOT CUE",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 511,
+          "width": 68,
+          "height": 20,
+          "x": 38
+        },
+        "value": "Off"
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 411,
+          "width": 200,
+          "height": 130,
+          "x": 694
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 416,
+          "width": 120,
+          "height": 120,
+          "x": 739
+        }
+      },
+      {
+        "name": " 99.00",
+        "type": "ControlType.Edit",
+        "offscreen": false,
+        "rect": {
+          "y": 457,
+          "width": 54,
+          "height": 23,
+          "x": 772
+        },
+        "value": " 99.00"
+      },
+      {
+        "name": " 0.0",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 480,
+          "width": 26,
+          "height": 11,
+          "x": 762
+        },
+        "value": " 0.0"
+      },
+      {
+        "name": "",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 480,
+          "width": 34,
+          "height": 11,
+          "x": 762
+        },
+        "value": ""
+      },
+      {
+        "name": "%",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 480,
+          "width": 8,
+          "height": 11,
+          "x": 789
+        },
+        "value": "%"
+      },
+      {
+        "name": "±6",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 480,
+          "width": 32,
+          "height": 11,
+          "x": 801
+        },
+        "value": "±6"
+      },
+      {
+        "name": "INT",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 421,
+          "width": 40,
+          "height": 20,
+          "x": 694
+        },
+        "value": "Off"
+      },
+      {
+        "name": "SLIP",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 421,
+          "width": 30,
+          "height": 18,
+          "x": 864
+        },
+        "value": "Off"
+      },
+      {
+        "name": "キュー",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 449,
+          "width": 36,
+          "height": 36,
+          "x": 696
+        }
+      },
+      {
+        "name": "Q",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 449,
+          "width": 30,
+          "height": 18,
+          "x": 864
+        }
+      },
+      {
+        "name": "プレイ/ポーズ",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 495,
+          "width": 36,
+          "height": 36,
+          "x": 696
+        }
+      },
+      {
+        "name": "MT",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 513,
+          "width": 30,
+          "height": 18,
+          "x": 864
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 411,
+          "width": 200,
+          "height": 130,
+          "x": 1026
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 416,
+          "width": 120,
+          "height": 120,
+          "x": 1071
+        }
+      },
+      {
+        "name": " 106.00",
+        "type": "ControlType.Edit",
+        "offscreen": false,
+        "rect": {
+          "y": 457,
+          "width": 54,
+          "height": 23,
+          "x": 1104
+        },
+        "value": " 106.00"
+      },
+      {
+        "name": " 6.0",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 480,
+          "width": 26,
+          "height": 11,
+          "x": 1094
+        },
+        "value": " 6.0"
+      },
+      {
+        "name": "",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 480,
+          "width": 34,
+          "height": 11,
+          "x": 1094
+        },
+        "value": ""
+      },
+      {
+        "name": "%",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 480,
+          "width": 8,
+          "height": 11,
+          "x": 1121
+        },
+        "value": "%"
+      },
+      {
+        "name": "±6",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 480,
+          "width": 32,
+          "height": 11,
+          "x": 1133
+        },
+        "value": "±6"
+      },
+      {
+        "name": "INT",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 421,
+          "width": 40,
+          "height": 20,
+          "x": 1026
+        },
+        "value": "Off"
+      },
+      {
+        "name": "SLIP",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 421,
+          "width": 30,
+          "height": 18,
+          "x": 1196
+        },
+        "value": "Off"
+      },
+      {
+        "name": "キュー",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 449,
+          "width": 36,
+          "height": 36,
+          "x": 1028
+        }
+      },
+      {
+        "name": "Q",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 449,
+          "width": 30,
+          "height": 18,
+          "x": 1196
+        }
+      },
+      {
+        "name": "プレイ/ポーズ",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 495,
+          "width": 36,
+          "height": 36,
+          "x": 1028
+        }
+      },
+      {
+        "name": "MT",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 513,
+          "width": 30,
+          "height": 18,
+          "x": 1196
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 411,
+          "width": 646,
+          "height": 130,
+          "x": 1236
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 421,
+          "width": 568,
+          "height": 87,
+          "x": 1314
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 421,
+          "width": 568,
+          "height": 87,
+          "x": 1314
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 421,
+          "width": 563,
+          "height": 175,
+          "x": 1314
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 421,
+          "width": 139,
+          "height": 42,
+          "x": 1314
+        }
+      },
+      {
+        "name": "A",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 424,
+          "width": 11,
+          "height": 11,
+          "x": 1317
+        },
+        "value": "A"
+      },
+      {
+        "name": "",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 447,
+          "width": 133,
+          "height": 11,
+          "x": 1317
+        },
+        "value": ""
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 421,
+          "width": 139,
+          "height": 42,
+          "x": 1455
+        }
+      },
+      {
+        "name": "B",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 424,
+          "width": 11,
+          "height": 11,
+          "x": 1458
+        },
+        "value": "B"
+      },
+      {
+        "name": "",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 447,
+          "width": 133,
+          "height": 11,
+          "x": 1458
+        },
+        "value": ""
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 421,
+          "width": 139,
+          "height": 42,
+          "x": 1596
+        }
+      },
+      {
+        "name": "C",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 424,
+          "width": 11,
+          "height": 11,
+          "x": 1599
+        },
+        "value": "C"
+      },
+      {
+        "name": "",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 447,
+          "width": 133,
+          "height": 11,
+          "x": 1599
+        },
+        "value": ""
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 421,
+          "width": 139,
+          "height": 42,
+          "x": 1737
+        }
+      },
+      {
+        "name": "D",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 424,
+          "width": 11,
+          "height": 11,
+          "x": 1740
+        },
+        "value": "D"
+      },
+      {
+        "name": "",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 447,
+          "width": 133,
+          "height": 11,
+          "x": 1740
+        },
+        "value": ""
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 465,
+          "width": 139,
+          "height": 42,
+          "x": 1314
+        }
+      },
+      {
+        "name": "E",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 468,
+          "width": 11,
+          "height": 11,
+          "x": 1317
+        },
+        "value": "E"
+      },
+      {
+        "name": "",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 491,
+          "width": 133,
+          "height": 11,
+          "x": 1317
+        },
+        "value": ""
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 465,
+          "width": 139,
+          "height": 42,
+          "x": 1455
+        }
+      },
+      {
+        "name": "F",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 468,
+          "width": 11,
+          "height": 11,
+          "x": 1458
+        },
+        "value": "F"
+      },
+      {
+        "name": "",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 491,
+          "width": 133,
+          "height": 11,
+          "x": 1458
+        },
+        "value": ""
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 465,
+          "width": 139,
+          "height": 42,
+          "x": 1596
+        }
+      },
+      {
+        "name": "G",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 468,
+          "width": 11,
+          "height": 11,
+          "x": 1599
+        },
+        "value": "G"
+      },
+      {
+        "name": "",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 491,
+          "width": 133,
+          "height": 11,
+          "x": 1599
+        },
+        "value": ""
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 465,
+          "width": 139,
+          "height": 42,
+          "x": 1737
+        }
+      },
+      {
+        "name": "H",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 468,
+          "width": 11,
+          "height": 11,
+          "x": 1740
+        },
+        "value": "H"
+      },
+      {
+        "name": "",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 491,
+          "width": 133,
+          "height": 11,
+          "x": 1740
+        },
+        "value": ""
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 509,
+          "width": 139,
+          "height": 42,
+          "x": 1314
+        }
+      },
+      {
+        "name": "I",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 512,
+          "width": 11,
+          "height": 11,
+          "x": 1317
+        },
+        "value": "I"
+      },
+      {
+        "name": "",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 535,
+          "width": 133,
+          "height": 11,
+          "x": 1317
+        },
+        "value": ""
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 509,
+          "width": 139,
+          "height": 42,
+          "x": 1455
+        }
+      },
+      {
+        "name": "J",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 512,
+          "width": 11,
+          "height": 11,
+          "x": 1458
+        },
+        "value": "J"
+      },
+      {
+        "name": "",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 535,
+          "width": 133,
+          "height": 11,
+          "x": 1458
+        },
+        "value": ""
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 509,
+          "width": 139,
+          "height": 42,
+          "x": 1596
+        }
+      },
+      {
+        "name": "K",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 512,
+          "width": 11,
+          "height": 11,
+          "x": 1599
+        },
+        "value": "K"
+      },
+      {
+        "name": "",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 535,
+          "width": 133,
+          "height": 11,
+          "x": 1599
+        },
+        "value": ""
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 509,
+          "width": 139,
+          "height": 42,
+          "x": 1737
+        }
+      },
+      {
+        "name": "L",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 512,
+          "width": 11,
+          "height": 11,
+          "x": 1740
+        },
+        "value": "L"
+      },
+      {
+        "name": "",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 535,
+          "width": 133,
+          "height": 11,
+          "x": 1740
+        },
+        "value": ""
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 553,
+          "width": 139,
+          "height": 42,
+          "x": 1314
+        }
+      },
+      {
+        "name": "M",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 556,
+          "width": 11,
+          "height": 11,
+          "x": 1317
+        },
+        "value": "M"
+      },
+      {
+        "name": "",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 579,
+          "width": 133,
+          "height": 11,
+          "x": 1317
+        },
+        "value": ""
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 553,
+          "width": 139,
+          "height": 42,
+          "x": 1455
+        }
+      },
+      {
+        "name": "N",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 556,
+          "width": 11,
+          "height": 11,
+          "x": 1458
+        },
+        "value": "N"
+      },
+      {
+        "name": "",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 579,
+          "width": 133,
+          "height": 11,
+          "x": 1458
+        },
+        "value": ""
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 553,
+          "width": 139,
+          "height": 42,
+          "x": 1596
+        }
+      },
+      {
+        "name": "O",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 556,
+          "width": 11,
+          "height": 11,
+          "x": 1599
+        },
+        "value": "O"
+      },
+      {
+        "name": "",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 579,
+          "width": 133,
+          "height": 11,
+          "x": 1599
+        },
+        "value": ""
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 553,
+          "width": 139,
+          "height": 42,
+          "x": 1737
+        }
+      },
+      {
+        "name": "P",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 556,
+          "width": 11,
+          "height": 11,
+          "x": 1740
+        },
+        "value": "P"
+      },
+      {
+        "name": "",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 579,
+          "width": 133,
+          "height": 11,
+          "x": 1740
+        },
+        "value": ""
+      },
+      {
+        "name": "",
+        "type": "ControlType.ScrollBar",
+        "offscreen": false,
+        "rect": {
+          "y": 421,
+          "width": 5,
+          "height": 87,
+          "x": 1877
+        },
+        "value": "0"
+      },
+      {
+        "name": "HOT CUE",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 511,
+          "width": 68,
+          "height": 20,
+          "x": 1814
+        },
+        "value": "Off"
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 411,
+          "width": 28,
+          "height": 130,
+          "x": 1892
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 411,
+          "width": 28,
+          "height": 65,
+          "x": 1892
+        },
+        "value": "On"
+      },
+      {
+        "name": "",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 476,
+          "width": 28,
+          "height": 65,
+          "x": 1892
+        },
+        "value": "Off"
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 421,
+          "width": 68,
+          "height": 87,
+          "x": 616
+        }
+      },
+      {
+        "name": "4",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 421,
+          "width": 68,
+          "height": 32,
+          "x": 616
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 455,
+          "width": 33,
+          "height": 33,
+          "x": 616
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 455,
+          "width": 33,
+          "height": 33,
+          "x": 651
+        }
+      },
+      {
+        "name": "AU",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 490,
+          "width": 33,
+          "height": 18,
+          "x": 616
+        },
+        "value": "On"
+      },
+      {
+        "name": "MA",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 490,
+          "width": 33,
+          "height": 18,
+          "x": 651
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 421,
+          "width": 68,
+          "height": 87,
+          "x": 1236
+        }
+      },
+      {
+        "name": "4",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 421,
+          "width": 68,
+          "height": 32,
+          "x": 1236
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 455,
+          "width": 33,
+          "height": 33,
+          "x": 1236
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 455,
+          "width": 33,
+          "height": 33,
+          "x": 1271
+        }
+      },
+      {
+        "name": "AU",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 490,
+          "width": 33,
+          "height": 18,
+          "x": 1236
+        },
+        "value": "On"
+      },
+      {
+        "name": "MA",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 490,
+          "width": 33,
+          "height": 18,
+          "x": 1271
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 544,
+          "width": 344,
+          "height": 40,
+          "x": 1566
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 553,
+          "width": 21,
+          "height": 19,
+          "x": 1783
+        },
+        "value": "Off"
+      },
+      {
+        "name": "",
+        "type": "ControlType.ComboBox",
+        "offscreen": false,
+        "rect": {
+          "y": 554,
+          "width": 88,
+          "height": 18,
+          "x": 1566
+        },
+        "value": "Master Out"
+      },
+      {
+        "name": "",
+        "type": "ControlType.Slider",
+        "offscreen": false,
+        "rect": {
+          "y": 554,
+          "width": 24,
+          "height": 24,
+          "x": 1664
+        },
+        "value": "0.00"
+      },
+      {
+        "name": "00:00:00",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 557,
+          "width": 50,
+          "height": 14,
+          "x": 1809
+        },
+        "value": "00:00:00"
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 559,
+          "width": 80,
+          "height": 9,
+          "x": 1693
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 559,
+          "width": 80,
+          "height": 3,
+          "x": 1693
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 565,
+          "width": 80,
+          "height": 3,
+          "x": 1693
+        }
+      },
+      {
+        "name": "/",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 559,
+          "width": 7,
+          "height": 11,
+          "x": 1861
+        },
+        "value": "/"
+      },
+      {
+        "name": "03:00:00",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 559,
+          "width": 40,
+          "height": 11,
+          "x": 1870
+        },
+        "value": "03:00:00"
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 1009,
+          "width": 1920,
+          "height": 23,
+          "x": 0
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Custom",
+        "offscreen": false,
+        "rect": {
+          "y": 1009,
+          "width": 1205,
+          "height": 23,
+          "x": 315
+        }
+      },
+      {
+        "name": "",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 1012,
+          "width": 180,
+          "height": 16,
+          "x": 130
+        },
+        "value": ""
+      },
+      {
+        "name": "",
+        "type": "ControlType.Text",
+        "offscreen": false,
+        "rect": {
+          "y": 1012,
+          "width": 330,
+          "height": 16,
+          "x": 1521
+        },
+        "value": ""
+      },
+      {
+        "name": "btnMultiWindow",
+        "type": "ControlType.Button",
+        "offscreen": false,
+        "rect": {
+          "y": 1012,
+          "width": 16,
+          "height": 16,
+          "x": 1892
+        },
+        "value": "Off"
+      }
+    ]
+  },
+  "expected": {
+    "source": "windows_uia",
+    "received_at": "2026-11-16T05:53:00.4305142Z",
+    "layout": "experimental_horizontal_2deck",
+    "valid": true,
+    "decks": {
+      "1": {
+        "loaded": true,
+        "title": "いつかの、いくつかのきみとのせかい",
+        "artist": "fhána",
+        "bpm_original": 99.0,
+        "bpm_current": 99.0,
+        "position_seconds": 10.3,
+        "remaining_seconds": 235.6,
+        "playing": null,
+        "master": null
+      },
+      "2": {
+        "loaded": true,
+        "title": "Home Sweet Home",
+        "artist": "キサラギ=アリス(CV:富田美憂)、スノウ(CV:菊池紗矢香)、ロゼ(CV:村上奈津実)、グリム(CV:髙橋ミナミ)",
+        "bpm_original": 100.0,
+        "bpm_current": 106.0,
+        "position_seconds": 0.2,
+        "remaining_seconds": 235.4,
+        "playing": null,
+        "master": null
+      }
+    },
+    "on_air_estimate": null
+  }
+}
